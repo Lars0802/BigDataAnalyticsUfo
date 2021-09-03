@@ -1,0 +1,13 @@
+irmo, sc, 2021-04-17 06:21:00, H: NaN, D: NaN, COCO: NaN
+sanford, fl, 2021-04-16 23:15:00, H: NaN, D: NaN, COCO: NaN
+sanford, fl, 2021-04-16 22:49:00, H: NaN, D: NaN, COCO: NaN
+imperial, mo, 2021-04-16 14:42:00, H: NaN, D: NaN, COCO: NaN
+jonesboro, ar, 2021-04-15 05:13:00, H: NaN, D: NaN, COCO: NaN
+oaklandon, in, 2021-04-13 23:38:00, H: NaN, D: NaN, COCO: 3.0
+spokane, wa, 2021-04-10 16:28:00, H: NaN, D: NaN, COCO: 3.0
+santabarbara, ca, 2021-04-09 06:04:00, H: NaN, D: NaN, COCO: NaN
+midland, tx, 2021-04-07 21:08:00, H: NaN, D: NaN, COCO: NaN
+midland, tx, 2021-04-07 21:08:00, H: NaN, D: NaN, COCO: NaN
+wichita, ks, 2021-04-06 12:30:00, H: NaN, D: NaN, COCO: NaN
+norwalk, ct, 2021-04-05 20:51:00, H: NaN, D: NaN, COCO: NaN
+windham, oh, 2021-04-03 11:35:00, H: NaN, D: NaN, COCO: NaN

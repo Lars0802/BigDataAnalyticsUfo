@@ -1,30 +1,28 @@
+#Lars Thomsen, anhqn
+#02.09.2021
+
 import mysql.connector
+import csv
+import sys
 
 #connect to database
 db = mysql.connector.connect(host="85.13.154.57", user="d03664f3", passwd="BigDataUfoPW", db="d03664f3")
-mycursor = db.cursor()
+res = db.cursor()
+statement = "select city, state, date__time from sighting where not (city is null or city = '' or city = '?' or date__time is null or date__time = '' or date__time = '?')"
+file_path = 'sightings.csv'
 
-statement = "select distinct city, state, date__time from sighting where not (city is null or city = '' or city = '?') and city like '%new york%'"
+#abfrage
+try:
+    res.execute(statement)
+    rows = res.fetchall()
+finally:
+    db.close()
 
-#query
-mycursor.execute(statement)
-
-#save cities in txt
-cities_date = open("cit_date.txt", "a")
-cities = open("cit.txt", "a")
-cities2 = open("cit2.txt", "a")
-count = 0
-
-cities.write('\n')
-cities2.write('\n')
-
-for x in mycursor:
-    cities_date.write(x[0]+', '+x[1]+', '+x[2]+'\n')
-
-
-#for x in mycursor:
-#    if count < 14000:
-#        cities.write(x[0]+', '+x[1]+'\n')
-#    else:
-#        cities2.write(x[0]+', '+x[1]+'\n')
-#    count += 1
+#in csv speichern
+if rows:
+    fs = open(file_path, 'w', newline = '')
+    ergebnisse = csv.writer(fs)
+    ergebnisse.writerows(rows)
+    fs.close()
+else:
+    sys.exit("Keine Ergebnisse")
