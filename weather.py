@@ -7,10 +7,16 @@ import pandas as pd
 from csv import reader
 import os
 
-# open files
+# file paths
 file_path_final = 'sunshine_total.csv'
 file_path_lnglat = 'cities_coords.csv'
 file_path_sight = 'sightings.csv'
+
+# del if exists
+try:
+    os.remove(file_path_final)
+except:
+    pass
 
 # functions
 def get_city(): # returns city name
