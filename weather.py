@@ -114,8 +114,9 @@ with open(file_path_sight, 'r') as sighting_reader:
             data_hourly = pd.DataFrame()
             data_daily = pd.DataFrame()
             df = pd.DataFrame()
-            Daily.clear_cache()
-            Hourly.clear_cache()
+            if counter % 100 == 0:
+                Daily.clear_cache(60)
+                Hourly.clear_cache(60)
 
             print(counter)
             counter+=1
