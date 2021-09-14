@@ -1,0 +1,2021 @@
+city,state,time_date,sun_hourly,sun_daily,condition_code
+nashville,tn,2021-04-02 21:00:00,NaN,NaN,1.0
+councilbluffs,ia,2021-03-14 04:00:00,NaN,NaN,7.0
+roundrock,tx,2021-01-13,NaN,NaN,1.0
+stockton,ca,2020-12-15,NaN,NaN,1.0
+london,,2020-11-26 21:00:00,NaN,NaN,5.0
+portland,or,2020-11-16 23:00:00,NaN,NaN,7.0
+scappoose,or,2020-11-11 18:00:00,NaN,NaN,5.0
+lilesville,nc,2020-10-31 21:00:00,NaN,NaN,5.0
+hanover,md,2020-10-31 07:00:00,NaN,NaN,3.0
+merced,ca,2020-09-16,NaN,NaN,5.0
+augusta,ga,2020-08-18 08:00:00,NaN,NaN,5.0
+grandjunction,co,2020-06-06 22:00:00,NaN,NaN,3.0
+portland,or,2020-05-10 23:00:00,NaN,NaN,3.0
+badger,ia,2020-04-20 23:00:00,NaN,NaN,5.0
+sandiego,ca,2020-04-17 21:00:00,NaN,NaN,3.0
+orange,ma,2020-04-16 09:00:00,NaN,NaN,5.0
+augusta,me,2020-04-13 23:00:00,NaN,NaN,7.0
+davie,fl,2020-04-01 21:00:00,NaN,NaN,2.0
+mississauga(canada),on,2020-03-28 02:00:00,NaN,NaN,2.0
+louisville,,2020-03-21,NaN,NaN,4.0
+london(uk/england),,2020-03-08 05:00:00,NaN,NaN,7.0
+bohmte(germany),,2020-03-03 21:00:00,0.0,NaN,2.0
+st.petersburg,fl,2020-02-22 19:00:00,NaN,NaN,2.0
+councilbluffs,ia,2020-02-21 05:00:00,NaN,NaN,1.0
+st.petersburg,fl,2020-02-15 19:00:00,NaN,NaN,3.0
+atco,nj,2020-02-13 02:00:00,NaN,NaN,7.0
+sandiego,ca,2020-02-12 13:00:00,NaN,NaN,1.0
+queencharlotteisland,bc,2020-01-25 21:00:00,NaN,NaN,5.0
+grandjunction,co,2020-01-12,NaN,NaN,2.0
+bellevue,ne,2020-01-11 03:00:00,NaN,NaN,7.0
+grandjunction,co,2020-01-11,NaN,NaN,1.0
+grandjunction,co,2020-01-10,NaN,NaN,4.0
+grandjunction,co,2020-01-09,NaN,NaN,5.0
+grandjunction,co,2020-01-08,NaN,NaN,1.0
+kalispell,mt,2020-01-07 07:00:00,NaN,NaN,7.0
+easthartford,ct,2019-12-28 23:00:00,NaN,NaN,3.0
+chilliwack(canada),bc,2019-12-17,NaN,NaN,9.0
+cheyenne,wy,2019-12-10 12:00:00,NaN,NaN,2.0
+dzilth-na-o-dithle,nm,2019-11-17 01:00:00,NaN,NaN,4.0
+gilbert,az,2019-10-25 19:00:00,NaN,NaN,1.0
+quincy,ma,2019-10-24 19:00:00,NaN,NaN,2.0
+coralsprings,fl,2019-10-16 03:00:00,NaN,NaN,3.0
+chicago,il,2019-09-15,NaN,NaN,2.0
+rytro(poland),,2019-08-18 09:00:00,NaN,NaN,2.0
+spokanevalley,wa,2019-07-30 03:00:00,NaN,NaN,2.0
+fargo,nd,2019-07-23 01:00:00,NaN,NaN,1.0
+allisonpark,pa,2019-06-27 22:00:00,NaN,NaN,3.0
+chicago,il,2019-05-10,NaN,NaN,4.0
+mysticisland,nj,2019-05-07 22:00:00,NaN,NaN,1.0
+conway,ar,2019-03-06 13:00:00,NaN,NaN,2.0
+greenville,sc,2019-03-01 13:00:00,NaN,NaN,5.0
+ranchopalosverdes,ca,2019-01-26 01:00:00,NaN,NaN,2.0
+spring,tx,2018-12-31 22:00:00,NaN,NaN,4.0
+albuquerque,nm,2018-09-23 21:00:00,NaN,NaN,2.0
+lasvegas,nv,2018-08-11 12:00:00,NaN,NaN,2.0
+boise,id,2018-07-26 04:00:00,NaN,NaN,1.0
+layton,ut,2018-04-22 15:00:00,NaN,NaN,2.0
+austin,tx,2018-04-07,NaN,NaN,7.0
+berg(near)(switzerland),,2018-04-06 20:00:00,0.0,NaN,1.0
+mission(canada),bc,2017-07-05 23:00:00,NaN,NaN,5.0
+floridacoast(atsea),,2017-06-26 22:00:00,NaN,NaN,25.0
+clarksville,tn,2017-04-24,NaN,NaN,8.0
+sanpablo,ca,2017-02-20 22:00:00,NaN,NaN,8.0
+highwayi-40truckparking,ar,2016-10-07,NaN,679.0,NaN
+mountpleasant(canada),bc,2016-07-15,NaN,NaN,5.0
+miami,fl,2015-07-26,NaN,273.0,NaN
+bremen(germany),,2014-01-06,NaN,6.0,NaN
+lancaster,ca,2001-06-02,NaN,0.0,NaN
+ft.richardson,ak,1986-11-15,NaN,0.0,NaN
+tucson(redingtonpassarea),az,1983-06-30,NaN,822.0,NaN
+indianapolis,in,1983-06-30,NaN,552.0,NaN
+detroit(metroarea),mi,1978-02-01,NaN,342.0,NaN
+baltimore,md,2021-04-11 22:00:00,NaN,NaN,3.0
+portjeffersonstation,ny,2021-03-23,NaN,NaN,2.0
+iowafalls,ia,2021-02-18 04:00:00,NaN,NaN,14.0
+wentzville,mo,2021-02-15 23:00:00,NaN,NaN,14.0
+winchester,ky,2020-10-30,NaN,NaN,7.0
+brighton(uk/england),,2020-09-27,NaN,NaN,3.0
+sanford,nc,2020-09-25 23:00:00,NaN,NaN,9.0
+foresthills,pa,2020-09-08 19:00:00,NaN,NaN,2.0
+foresthills,pa,2020-09-08 19:00:00,NaN,NaN,2.0
+newportnews,va,2020-09-02 01:00:00,NaN,NaN,5.0
+sanantonio,tx,2020-08-20 21:00:00,NaN,NaN,2.0
+westjordan/midvale,ut,2020-08-11 22:00:00,NaN,NaN,2.0
+fresno,ca,2020-08-05 19:00:00,NaN,NaN,1.0
+beverly,ma,2020-08-02 05:00:00,NaN,NaN,2.0
+spanishfort,al,2020-07-31 23:00:00,NaN,NaN,2.0
+sandy,ut,2020-07-21,NaN,NaN,2.0
+toronto(canada),on,2020-07-01 23:00:00,NaN,NaN,2.0
+grandisland,ny,2020-07-01 13:00:00,NaN,NaN,2.0
+wilmington,de,2020-05-24 21:00:00,NaN,NaN,4.0
+eudora,ks,2020-04-25 21:00:00,NaN,NaN,8.0
+st.louis,mo,2020-04-16 22:00:00,NaN,NaN,4.0
+miami,fl,2020-04-12 02:00:00,NaN,NaN,7.0
+elgin,il,2020-04-05 14:00:00,NaN,NaN,3.0
+babylon,ny,2020-04-01 21:00:00,NaN,NaN,3.0
+juneau,ak,2020-03-23 12:00:00,NaN,NaN,1.0
+lasvegas,nv,2020-03-11 07:00:00,NaN,NaN,7.0
+atlanta,ga,2020-01-02,NaN,NaN,3.0
+lasvegas,nv,2019-12-14,NaN,NaN,3.0
+patchoguevillage,ny,2019-11-21 22:00:00,NaN,NaN,3.0
+dearborn,mi,2019-11-17 18:00:00,NaN,NaN,3.0
+gilbert,az,2019-11-05 23:00:00,NaN,NaN,2.0
+williamsonvalley,az,2019-11-01 18:00:00,NaN,NaN,1.0
+paducah,ky,2019-09-30 22:00:00,NaN,NaN,5.0
+flushing(queens),ny,2019-08-04 16:00:00,NaN,NaN,2.0
+carrollton,tx,2019-07-20 13:00:00,NaN,NaN,2.0
+sandy,or,2019-07-14 21:00:00,NaN,NaN,2.0
+littleton/chatfieldarea,co,2019-07-02 10:00:00,NaN,NaN,2.0
+proctor,mn,2019-06-01,NaN,NaN,1.0
+bismarck/mandan(between),nd,2019-04-20 14:00:00,NaN,NaN,1.0
+levittown,ny,2019-04-05 02:00:00,NaN,NaN,2.0
+windsor(canada),on,2019-03-30 01:00:00,NaN,NaN,7.0
+tigard,or,2019-03-17 01:00:00,NaN,NaN,3.0
+losangeles,ca,2019-02-28 18:00:00,NaN,NaN,3.0
+damascus,or,2019-02-18 19:00:00,NaN,NaN,5.0
+cloquet,mn,2019-01-21,NaN,NaN,14.0
+wesleychapel,fl,2019-01-02 17:00:00,NaN,NaN,2.0
+bushwick,ny,2018-11-09 16:00:00,NaN,NaN,7.0
+newyorkcity(brooklyn),ny,2018-11-09 06:00:00,NaN,NaN,2.0
+belfield(northof),nd,2018-11-09 05:00:00,NaN,NaN,3.0
+fireisland(watchhill),ny,2018-11-03 23:00:00,NaN,NaN,2.0
+winthrop,ma,2018-10-29 14:00:00,NaN,NaN,8.0
+lakeville,mn,2018-09-17,NaN,NaN,2.0
+hitchcock,tx,2018-09-15 17:00:00,NaN,NaN,7.0
+chicago,il,2018-09-14 14:00:00,NaN,NaN,2.0
+richmond,va,2018-08-30 03:00:00,NaN,NaN,2.0
+locust,nc,2018-08-17 21:00:00,NaN,NaN,7.0
+houston,tx,2018-08-01 23:00:00,NaN,NaN,3.0
+sabin,mn,2018-07-18,NaN,NaN,1.0
+catonsville,md,2018-05-08 21:00:00,NaN,NaN,3.0
+northsaltlake,ut,2018-04-18 21:00:00,NaN,NaN,3.0
+northsaltlake,ut,2018-04-18 21:00:00,NaN,NaN,3.0
+kenner,la,2018-02-27 03:00:00,NaN,NaN,3.0
+portland,or,2017-08-08 22:00:00,NaN,NaN,5.0
+tampa,fl,2017-06-21 21:00:00,NaN,NaN,25.0
+hollywood,ca,2017-02-10 19:00:00,NaN,NaN,7.0
+lahabra,ca,2016-10-17 07:00:00,NaN,NaN,7.0
+bethlehem,pa,2015-12-11 06:00:00,NaN,NaN,5.0
+kiluea,hi,2010-09-20,NaN,105.0,NaN
+orchardpark,ny,2008-04-23,NaN,643.0,NaN
+elpaso,il,2004-06-15,NaN,0.0,NaN
+medfield,ma,2021-02-17 21:00:00,NaN,NaN,2.0
+clearwater,fl,2020-12-13,NaN,NaN,2.0
+golden,co,2020-12-09 19:00:00,NaN,NaN,2.0
+sanjose,,2020-10-31 22:00:00,NaN,NaN,5.0
+ferndale,mi,2020-10-07 21:00:00,NaN,NaN,2.0
+lasvegas/ryolite(between),nv,2020-09-29 09:00:00,NaN,NaN,1.0
+n.wales,pa,2020-08-01 04:00:00,NaN,NaN,5.0
+burystedmunds(uk/england),,2020-07-15 20:00:00,NaN,NaN,4.0
+portsmouthandvirginiabeach,va,2020-07-08 23:00:00,NaN,NaN,7.0
+kirkland,wa,2020-05-16 19:00:00,NaN,NaN,7.0
+airdrie(canada),ab,2020-04-21,NaN,NaN,2.0
+lacey,wa,2020-01-01,NaN,NaN,7.0
+superior,wi,2019-10-19 23:00:00,NaN,NaN,1.0
+woodbury,mn,2019-07-14 14:00:00,NaN,NaN,7.0
+duluth,mn,2019-05-05 21:00:00,NaN,NaN,2.0
+whitehall,pa,2019-02-16 21:00:00,NaN,NaN,2.0
+walpole,ma,2018-08-11 21:00:00,NaN,NaN,5.0
+gemmrigheim(germany),,2017-03-20 19:00:00,0.0,NaN,NaN
+tampa,fl,2008-04-25,NaN,699.0,NaN
+neumarkt(germany),,2007-08-01 04:00:00,0.0,NaN,NaN
+houston,tx,1997-06-01,NaN,0.0,NaN
+sydney,,2021-02-20 11:00:00,NaN,NaN,2.0
+denver,co,2021-01-03 16:00:00,NaN,NaN,2.0
+dunedin,fl,2020-12-18 18:00:00,NaN,NaN,1.0
+norwich,,2020-11-23 17:00:00,NaN,NaN,3.0
+corrales,nm,2020-11-13,NaN,NaN,2.0
+esther,ak,2020-11-10 03:00:00,NaN,NaN,3.0
+esther,ak,2020-11-10 03:00:00,NaN,NaN,3.0
+essex,md,2020-11-07 09:00:00,NaN,NaN,5.0
+essex,md,2020-11-07 09:00:00,NaN,NaN,5.0
+rollingmeadows,il,2020-10-24,NaN,NaN,4.0
+virginiabeach,va,2020-10-21 14:00:00,NaN,NaN,5.0
+louisville,ky,2020-10-05 13:00:00,NaN,NaN,2.0
+windsorlocks,ct,2020-10-01 16:00:00,NaN,NaN,5.0
+athens,tn,2020-08-16 02:00:00,NaN,NaN,5.0
+onalaska,wa,2020-08-07 04:00:00,NaN,NaN,5.0
+vancouver,wa,2020-07-31 16:00:00,NaN,NaN,2.0
+beverly,ma,2020-07-20 09:00:00,NaN,NaN,3.0
+kissimmee,fl,2020-07-15,NaN,NaN,25.0
+colbert,wa,2020-05-04 14:00:00,NaN,NaN,5.0
+gresham,or,2020-04-28 18:00:00,NaN,NaN,3.0
+lansdale,pa,2020-04-27 22:00:00,NaN,NaN,7.0
+swedesboro,nj,2020-04-23 19:00:00,NaN,NaN,8.0
+delray,fl,2020-04-02 07:00:00,NaN,NaN,1.0
+dillsboro,in,2020-03-04 22:00:00,NaN,NaN,3.0
+scotrun,pa,2020-03-03 22:00:00,NaN,NaN,5.0
+tampa,fl,2020-03-01 11:00:00,NaN,NaN,1.0
+littleton,co,2020-01-29 16:00:00,NaN,NaN,4.0
+jacksonville,fl,2020-01-15 19:00:00,NaN,NaN,5.0
+sanfrancisco,ca,2019-11-19 08:00:00,NaN,NaN,2.0
+fortdavis/marfa,tx,2019-11-16 16:00:00,NaN,NaN,7.0
+vacaville,ca,2019-10-22 23:00:00,NaN,NaN,2.0
+newyorkcity,ny,2019-10-15 07:00:00,NaN,NaN,1.0
+tomball,tx,2019-10-12 08:00:00,NaN,NaN,3.0
+fortlauderdale,fl,2019-08-30,NaN,NaN,0.0
+kahului,hi,2019-08-18 19:00:00,NaN,NaN,2.0
+tiburon,ca,2019-08-15 23:00:00,NaN,NaN,1.0
+brigantine,nj,2019-08-11 03:00:00,NaN,NaN,7.0
+raleigh,nc,2019-07-25 09:00:00,NaN,NaN,2.0
+fredericton(canada),nb,2019-06-30 19:00:00,NaN,NaN,4.0
+douai(france),,2019-06-07 20:00:00,NaN,NaN,18.0
+cortemadera,ca,2019-05-15 23:00:00,NaN,NaN,8.0
+zionsville,in,2019-05-13 17:00:00,NaN,NaN,4.0
+downer,mn,2019-05-03 22:00:00,NaN,NaN,2.0
+birmingham,al,2019-03-24 16:00:00,NaN,NaN,2.0
+fresno,ca,2019-03-15 10:00:00,NaN,NaN,1.0
+denver,co,2019-01-06 07:00:00,NaN,NaN,3.0
+lihue,hi,2018-12-16,NaN,NaN,3.0
+hatley,wi,2018-11-29 15:00:00,NaN,NaN,14.0
+gilbert,az,2018-11-22 22:00:00,NaN,NaN,4.0
+kiev(ukraine),,2018-10-01 14:00:00,NaN,NaN,2.0
+eagle,id,2018-09-09 15:00:00,NaN,NaN,1.0
+littlerock,ar,2018-08-29 23:00:00,NaN,NaN,8.0
+delmar,ca,2018-08-18,NaN,NaN,3.0
+spokane,wa,2018-08-06 12:00:00,NaN,NaN,2.0
+bismarckdoubleditch,nd,2018-08-06 11:00:00,NaN,NaN,1.0
+boise,id,2018-07-28 04:00:00,NaN,NaN,1.0
+anchorage,ak,2018-05-08 18:00:00,NaN,NaN,3.0
+santaynez,ca,2018-02-07 14:00:00,NaN,NaN,5.0
+pleasanton,ca,2017-10-28 17:00:00,NaN,NaN,5.0
+lavista,ne,2017-09-29 12:00:00,NaN,NaN,5.0
+jonesborough,tn,2017-05-21 13:00:00,NaN,NaN,7.0
+westchicago,il,2016-08-30 11:00:00,NaN,NaN,7.0
+wichita,ks,2009-07-01,NaN,883.0,NaN
+st.petersburg,fl,2008-12-17,NaN,535.0,NaN
+waldorf(westgermany),,1979-07-01 13:00:00,24.0,NaN,NaN
+irmo,sc,1974-09-01,NaN,138.0,NaN
+fortlauderdale,fl,2021-04-08,NaN,NaN,3.0
+saltlakecity,ut,2021-04-01 22:00:00,NaN,NaN,2.0
+louisville,ky,2021-04-01 02:00:00,NaN,NaN,3.0
+apex,nc,2021-03-28 21:00:00,NaN,NaN,7.0
+portland,or,2021-03-25 09:00:00,NaN,NaN,3.0
+lasvegas,nv,2021-01-22 17:00:00,NaN,NaN,3.0
+gresham,or,2021-01-04 21:00:00,NaN,NaN,7.0
+hampton,ar,2021-01-03 01:00:00,NaN,NaN,5.0
+phoenix,az,2021-01-01,NaN,NaN,3.0
+sellersville,pa,2020-12-31 18:00:00,NaN,NaN,7.0
+pembroke,ma,2020-12-22 08:00:00,NaN,NaN,5.0
+northmiamibeach,fl,2020-12-16,NaN,NaN,3.0
+pacifica,ca,2020-12-08 02:00:00,NaN,NaN,2.0
+palmerlake,co,2020-12-05 18:00:00,NaN,NaN,1.0
+palacios,tx,2020-11-08 13:00:00,NaN,NaN,5.0
+visalia,ca,2020-11-07 23:00:00,NaN,NaN,7.0
+medinah,il,2020-11-04 06:00:00,NaN,NaN,1.0
+lilburn,ga,2020-11-01 20:00:00,NaN,NaN,2.0
+rivierabeach,fl,2020-11-01 20:00:00,NaN,NaN,7.0
+columbiafalls,mt,2020-10-31 07:00:00,NaN,NaN,2.0
+beaverton,or,2020-10-29 01:00:00,NaN,NaN,2.0
+buffalo,ny,2020-10-25 12:00:00,NaN,NaN,3.0
+statenisland,ny,2020-10-05 17:00:00,NaN,NaN,3.0
+anchorage,ak,2020-10-03 18:00:00,NaN,NaN,7.0
+redding,ca,2020-10-01 04:00:00,NaN,NaN,5.0
+spokane,wa,2020-09-29 20:00:00,NaN,NaN,2.0
+columbus,oh,2020-09-28 21:00:00,NaN,NaN,8.0
+middleboro,ma,2020-09-27 18:00:00,NaN,NaN,7.0
+nashville,tn,2020-09-17 04:00:00,NaN,NaN,5.0
+phoenix,az,2020-09-14 19:00:00,NaN,NaN,2.0
+kirkland,wa,2020-09-12 21:00:00,NaN,NaN,5.0
+huntingtonpark,ca,2020-09-06,NaN,NaN,2.0
+coloradosprings,co,2020-09-04 21:00:00,NaN,NaN,2.0
+lockport,ny,2020-08-30 21:00:00,NaN,NaN,3.0
+coloradosprings,co,2020-08-26 18:00:00,NaN,NaN,1.0
+loudon,nh,2020-08-25 21:00:00,NaN,NaN,7.0
+herriman,ut,2020-08-25 06:00:00,NaN,NaN,25.0
+beaverton,or,2020-08-24 20:00:00,NaN,NaN,2.0
+hollowrock,tn,2020-08-22 03:00:00,NaN,NaN,5.0
+anchorageak,ak,2020-08-22 01:00:00,NaN,NaN,2.0
+pembrokepines,fl,2020-08-16 21:00:00,NaN,NaN,18.0
+newyork,ny,2020-08-15 17:00:00,NaN,NaN,3.0
+briarcliff,tx,2020-08-15 07:00:00,NaN,NaN,1.0
+kalispell,mt,2020-08-14 04:00:00,NaN,NaN,2.0
+kaslo(canada),bc,2020-08-14 03:00:00,NaN,NaN,1.0
+denver,co,2020-08-12 20:00:00,NaN,NaN,2.0
+kailua,hi,2020-08-11 21:00:00,NaN,NaN,2.0
+pikesville,md,2020-08-08 20:00:00,NaN,NaN,3.0
+irving,tx,2020-08-07 19:00:00,NaN,NaN,2.0
+orlando,fl,2020-08-07 01:00:00,NaN,NaN,7.0
+daniabeach,fl,2020-08-06 16:00:00,NaN,NaN,25.0
+holiday,fl,2020-08-06 04:00:00,NaN,NaN,7.0
+lasvegas,nv,2020-08-03 18:00:00,NaN,NaN,1.0
+clinton,ny,2020-07-23 10:00:00,NaN,NaN,5.0
+fresno,ca,2020-07-19 21:00:00,NaN,NaN,2.0
+thecolony,tx,2020-07-17 21:00:00,NaN,NaN,2.0
+harperwoods,mi,2020-07-06 06:00:00,NaN,NaN,2.0
+spokane,wa,2020-07-05,NaN,NaN,3.0
+winchester,tn,2020-07-04 21:00:00,NaN,NaN,5.0
+louisville,ky,2020-07-04 20:00:00,NaN,NaN,3.0
+huntsville,al,2020-07-04 20:00:00,NaN,NaN,25.0
+elmont,ny,2020-06-29 04:00:00,NaN,NaN,3.0
+rome,ny,2020-06-25 22:00:00,NaN,NaN,7.0
+coloradosprings,co,2020-06-03 13:00:00,NaN,NaN,1.0
+cleveland,oh,2020-06-02 23:00:00,NaN,NaN,2.0
+annapolis,md,2020-06-02 17:00:00,NaN,NaN,3.0
+stockton,ca,2020-05-29 10:00:00,NaN,NaN,1.0
+waikapu,hi,2020-05-27 16:00:00,NaN,NaN,2.0
+st.louis,mo,2020-05-18 13:00:00,NaN,NaN,4.0
+hollysprings,nc,2020-05-03 21:00:00,NaN,NaN,2.0
+folcroft,pa,2020-05-02 07:00:00,NaN,NaN,2.0
+newhaven,ct,2020-05-01 09:00:00,NaN,NaN,7.0
+vancouver,wa,2020-04-30 17:00:00,NaN,NaN,3.0
+birmingham,al,2020-04-29 21:00:00,NaN,NaN,7.0
+covington,ky,2020-04-29 06:00:00,NaN,NaN,7.0
+baltimorecity,md,2020-04-28 21:00:00,NaN,NaN,4.0
+losangeles,ca,2020-04-27 22:00:00,NaN,NaN,2.0
+severn,md,2020-04-27 21:00:00,NaN,NaN,3.0
+ottawa(canada),on,2020-04-24 20:00:00,NaN,NaN,2.0
+chapelhill,nc,2020-04-23 22:00:00,NaN,NaN,8.0
+compton,ca,2020-04-22 10:00:00,NaN,NaN,2.0
+lakeville,mn,2020-04-18 21:00:00,NaN,NaN,2.0
+lakeville,mn,2020-04-18 21:00:00,NaN,NaN,2.0
+eaglecreek,or,2020-04-17 22:00:00,NaN,NaN,2.0
+lasvegas,nv,2020-04-17 21:00:00,NaN,NaN,3.0
+westdeptford,nj,2020-04-16 22:00:00,NaN,NaN,3.0
+washougal,wa,2020-04-16 21:00:00,NaN,NaN,2.0
+montville,nj,2020-04-13 21:00:00,NaN,NaN,7.0
+malden,ma,2020-04-11 22:00:00,NaN,NaN,2.0
+rockyhill,ct,2020-04-10 22:00:00,NaN,NaN,7.0
+rockyhill,ct,2020-04-10 22:00:00,NaN,NaN,7.0
+hillandale,md,2020-03-30 21:00:00,NaN,NaN,2.0
+tucson,az,2020-03-29 21:00:00,NaN,NaN,2.0
+dayton,oh,2020-03-29,NaN,NaN,7.0
+davenport,ia,2020-03-28 08:00:00,NaN,NaN,25.0
+saintlouis,mo,2020-03-25 21:00:00,NaN,NaN,3.0
+logan,oh,2020-03-23 13:00:00,NaN,NaN,5.0
+howell,nj,2020-03-17 10:00:00,NaN,NaN,7.0
+carmichael,ca,2020-03-07 21:00:00,NaN,NaN,7.0
+eagle,id,2020-03-06 21:00:00,NaN,NaN,2.0
+brunswick,oh,2020-03-05 21:00:00,NaN,NaN,3.0
+brunswick,oh,2020-03-05 20:00:00,NaN,NaN,3.0
+kingman,az,2020-03-04 21:00:00,NaN,NaN,1.0
+idahofalls,id,2020-03-01 09:00:00,NaN,NaN,14.0
+compton,ca,2020-02-28 02:00:00,NaN,NaN,3.0
+elsobrante,ca,2020-02-27 05:00:00,NaN,NaN,1.0
+newyork,ny,2020-02-21 20:00:00,NaN,NaN,2.0
+nyc,ny,2020-02-21 03:00:00,NaN,NaN,3.0
+newyorkcity(bronx),ny,2020-02-19 16:00:00,NaN,NaN,2.0
+bayshore,ny,2020-02-17 20:00:00,NaN,NaN,2.0
+clark,nv,2020-02-17 13:00:00,NaN,NaN,2.0
+pembrokepines,fl,2020-02-16 14:00:00,NaN,NaN,7.0
+alamo,ca,2020-02-14 22:00:00,NaN,NaN,3.0
+cedarlake,in,2020-02-13 21:00:00,NaN,NaN,14.0
+shoreline,wa,2020-02-10 20:00:00,NaN,NaN,2.0
+framingham,ma,2020-01-30 18:00:00,NaN,NaN,2.0
+cork(city)(ireland),,2020-01-28 07:00:00,NaN,NaN,3.0
+jupiter,fl,2020-01-27 20:00:00,NaN,NaN,7.0
+meridian,id,2020-01-27 20:00:00,NaN,NaN,3.0
+coralsprings,fl,2020-01-25 22:00:00,NaN,NaN,3.0
+lasvegas,nv,2020-01-15 22:00:00,NaN,NaN,2.0
+miami,fl,2020-01-12 19:00:00,NaN,NaN,7.0
+burlington,ky,2020-01-10 06:00:00,NaN,NaN,7.0
+santamaria,ca,2019-12-30,NaN,NaN,5.0
+chicago,il,2019-12-22 08:00:00,NaN,NaN,1.0
+indianapolis,in,2019-12-21 19:00:00,NaN,NaN,2.0
+hewlett,ny,2019-12-20 20:00:00,NaN,NaN,2.0
+lynbrook,ny,2019-12-19 21:00:00,NaN,NaN,2.0
+miami,fl,2019-12-16 22:00:00,NaN,NaN,3.0
+oviedo,fl,2019-12-16 18:00:00,NaN,NaN,2.0
+phoenix,az,2019-12-12 06:00:00,NaN,NaN,2.0
+metairie,la,2019-11-28 18:00:00,NaN,NaN,3.0
+bellevue,ne,2019-11-24,NaN,NaN,2.0
+tucson,az,2019-11-23 06:00:00,NaN,NaN,1.0
+chulavista,ca,2019-11-11 18:00:00,NaN,NaN,2.0
+downey,ca,2019-11-08,NaN,NaN,5.0
+wembley(canada),ab,2019-11-05 02:00:00,NaN,NaN,14.0
+oregoncity,or,2019-11-03 10:00:00,NaN,NaN,2.0
+surrey(canada),bc,2019-10-29 07:00:00,NaN,NaN,1.0
+surrey(canada),bc,2019-10-29 07:00:00,NaN,NaN,1.0
+lando'lakes,fl,2019-10-27 05:00:00,NaN,NaN,2.0
+gilbert,az,2019-10-25 19:00:00,NaN,NaN,1.0
+savannah,ga,2019-10-20,NaN,NaN,5.0
+brooklyn,ny,2019-10-19,NaN,NaN,2.0
+ft.lauderdalebeach,fl,2019-10-15,NaN,NaN,3.0
+fowlriver,al,2019-10-10 17:00:00,NaN,NaN,2.0
+portland,or,2019-10-09 21:00:00,NaN,NaN,2.0
+newyorkcity(queens),ny,2019-10-07 06:00:00,NaN,NaN,7.0
+lafayettehill,pa,2019-10-05 18:00:00,NaN,NaN,2.0
+phoenix,az,2019-10-03 20:00:00,NaN,NaN,2.0
+bayport,ny,2019-09-27 23:00:00,NaN,NaN,2.0
+minneapolis,mn,2019-09-27 07:00:00,NaN,NaN,3.0
+westindianapolis,in,2019-09-23 23:00:00,NaN,NaN,2.0
+minneapolis,mn,2019-09-23 20:00:00,NaN,NaN,2.0
+bismarck,nd,2019-09-20 01:00:00,NaN,NaN,1.0
+statenisland,ny,2019-09-19 21:00:00,NaN,NaN,2.0
+palatine,,2019-09-19 20:00:00,NaN,NaN,3.0
+lasvegas,nv,2019-09-18 22:00:00,NaN,NaN,2.0
+atlanticcity,nj,2019-09-18 20:00:00,NaN,NaN,3.0
+bayville,ny,2019-09-07 03:00:00,NaN,NaN,4.0
+vejen(denmark),,2019-08-31 13:00:00,NaN,NaN,2.0
+metropolis,il,2019-08-30 21:00:00,NaN,NaN,5.0
+newyorkcity(manhattan),ny,2019-08-20 03:00:00,NaN,NaN,3.0
+atlanticbeachnorthcarolina,nc,2019-08-17 17:00:00,NaN,NaN,7.0
+wuppertal(germany),,2019-08-17 05:00:00,0.0,NaN,8.0
+rochester,ny,2019-08-16 22:00:00,NaN,NaN,25.0
+schertz,tx,2019-08-16 21:00:00,NaN,NaN,2.0
+denver,co,2019-08-13 23:00:00,NaN,NaN,2.0
+brigantine,nj,2019-08-10 21:00:00,NaN,NaN,2.0
+isleofpalms,sc,2019-08-05 22:00:00,NaN,NaN,25.0
+marcushook,pa,2019-08-05,NaN,NaN,4.0
+centreville,va,2019-07-20 23:00:00,NaN,NaN,2.0
+somerville,,2019-07-20 04:00:00,NaN,NaN,2.0
+saltlakecity,ut,2019-07-15 01:00:00,NaN,NaN,2.0
+coloradosprings,co,2019-07-10 19:00:00,NaN,NaN,1.0
+calabasas,ca,2019-07-09 06:00:00,NaN,NaN,3.0
+billings,mt,2019-07-08 01:00:00,NaN,NaN,17.0
+bernalillo,nm,2019-07-04 22:00:00,NaN,NaN,2.0
+marlton,nj,2019-07-01 21:00:00,NaN,NaN,3.0
+canton,ct,2019-06-28 21:00:00,NaN,NaN,3.0
+maardu(estonia),,2019-06-24 22:00:00,NaN,NaN,2.0
+lasvegas,nv,2019-06-23 14:00:00,NaN,NaN,1.0
+liberty,mo,2019-06-20 19:00:00,NaN,NaN,7.0
+dunbar,wv,2019-06-13 19:00:00,NaN,NaN,25.0
+liverpool,,2019-05-29 05:00:00,NaN,NaN,4.0
+mesa,az,2019-05-24 14:00:00,NaN,NaN,2.0
+coloradosprings,,2019-05-21 20:00:00,NaN,NaN,0.0
+franklin,tn,2019-05-06 12:00:00,NaN,NaN,2.0
+pompanobeach,fl,2019-05-04 03:00:00,NaN,NaN,7.0
+losangeles,ca,2019-05-01 03:00:00,NaN,NaN,3.0
+harlem,ny,2019-04-11 18:00:00,NaN,NaN,3.0
+scottsdale,az,2019-04-10 19:00:00,NaN,NaN,2.0
+sanantonio,tx,2019-04-09,NaN,NaN,2.0
+chicago,il,2019-04-02 21:00:00,NaN,NaN,4.0
+gilbert,az,2019-04-01 23:00:00,NaN,NaN,3.0
+gilbert,az,2019-04-01 23:00:00,NaN,NaN,3.0
+tucson,az,2019-03-23 16:00:00,NaN,NaN,1.0
+harahan,la,2019-03-10 22:00:00,NaN,NaN,3.0
+warrenville,sc,2019-02-26 21:00:00,NaN,NaN,1.0
+bonneylake,wa,2019-02-24 21:00:00,NaN,NaN,0.0
+vancouver(canada),bc,2019-02-24 15:00:00,NaN,NaN,4.0
+chicopee,ma,2019-02-12 19:00:00,NaN,NaN,15.0
+capecanaveral,fl,2019-02-12 02:00:00,NaN,NaN,5.0
+monument,co,2019-02-08 16:00:00,NaN,NaN,1.0
+sunrise,fl,2019-02-06 21:00:00,NaN,NaN,2.0
+billings,mt,2019-02-05 13:00:00,NaN,NaN,14.0
+hollywood,ca,2019-01-31 18:00:00,NaN,NaN,26.0
+burnsville,mn,2019-01-16 02:00:00,NaN,NaN,4.0
+windom,ks,2019-01-15 19:00:00,NaN,NaN,5.0
+tampa,fl,2019-01-13 22:00:00,NaN,NaN,3.0
+spokane,wa,2018-12-30 18:00:00,NaN,NaN,3.0
+kehei,hi,2018-12-18 09:00:00,NaN,NaN,2.0
+albuquerque,nm,2018-12-15 20:00:00,NaN,NaN,3.0
+detroit,mi,2018-11-18,NaN,NaN,4.0
+midland,nc,2018-11-08 19:00:00,NaN,NaN,3.0
+boise,id,2018-10-08 09:00:00,NaN,NaN,1.0
+taylor,mi,2018-10-07 04:00:00,NaN,NaN,8.0
+laurel,md,2018-10-04 21:00:00,NaN,NaN,3.0
+lockport,ny,2018-09-29 19:00:00,NaN,NaN,3.0
+westmont,il,2018-09-23 03:00:00,NaN,NaN,2.0
+tampa,fl,2018-09-07 04:00:00,NaN,NaN,7.0
+elgin,il,2018-09-01 17:00:00,NaN,NaN,8.0
+albuquerque,nm,2018-08-27 21:00:00,NaN,NaN,2.0
+albuquerque,nm,2018-08-25 14:00:00,NaN,NaN,3.0
+sausalito,ca,2018-08-14 21:00:00,NaN,NaN,2.0
+daytonabeach,fl,2018-08-12 21:00:00,NaN,NaN,26.0
+minnetonka,mn,2018-08-11 07:00:00,NaN,NaN,1.0
+florence,ky,2018-08-02 20:00:00,NaN,NaN,3.0
+ontario,ca,2018-07-21 21:00:00,NaN,NaN,4.0
+gibraltar(uk;spain),,2018-06-30 21:00:00,NaN,NaN,1.0
+phoenix,az,2018-05-29,NaN,NaN,1.0
+dublin(ireland),,2018-05-29,NaN,NaN,1.0
+windsor(canada),on,2018-05-26 21:00:00,NaN,NaN,7.0
+leskovac(serbia),,2018-04-28 20:00:00,NaN,NaN,3.0
+toronto(canada),on,2018-04-09 21:00:00,NaN,NaN,3.0
+toronto(canada),on,2018-03-31 22:00:00,NaN,NaN,7.0
+utica,ny,2018-03-13 07:00:00,NaN,NaN,14.0
+chuluota,fl,2018-03-11 21:00:00,NaN,NaN,8.0
+granada(spain),,2018-03-06 22:00:00,NaN,NaN,8.0
+lutherville-timonium,md,2018-03-02,NaN,NaN,7.0
+mesa,az,2018-02-07,NaN,NaN,2.0
+pella,ia,2018-01-29 03:00:00,NaN,NaN,14.0
+sharptown,md,2018-01-16 08:00:00,NaN,NaN,5.0
+grandrapids,mi,2018-01-13 22:00:00,NaN,NaN,14.0
+marysville,ca,2017-11-19 12:00:00,NaN,NaN,5.0
+sandiego,ca,2017-10-27 14:00:00,NaN,NaN,5.0
+kent,wa,2017-10-21 23:00:00,NaN,NaN,7.0
+ormondbeach,fl,2017-08-21 05:00:00,NaN,NaN,7.0
+pasadena,md,2017-06-23 20:00:00,NaN,NaN,7.0
+marysville,mi,2017-05-27 09:00:00,NaN,NaN,5.0
+costamesa,ca,2017-02-16 18:00:00,NaN,NaN,5.0
+rosamond,ca,2017-01-22 19:00:00,NaN,NaN,7.0
+miami,fl,2016-10-23,NaN,501.0,NaN
+springfield,or,2016-07-31 22:00:00,NaN,NaN,5.0
+northhardeeville,sc,2016-06-04 21:00:00,NaN,NaN,25.0
+missoula,mt,2016-05-29 23:00:00,NaN,NaN,7.0
+layton(southof),ut,2015-12-02 22:00:00,NaN,NaN,5.0
+munich(near)(germany),,2013-04-15,NaN,732.0,NaN
+basel(switzerland),,2012-08-07 14:00:00,47.0,NaN,NaN
+miami,fl,2012-05-25,NaN,789.0,NaN
+austin,tx,2009-04-07,NaN,760.0,NaN
+eden,ny,2008-08-08,NaN,430.0,NaN
+cleveland,oh,2007-07-22,NaN,826.0,NaN
+smyna,de,2007-06-01 03:00:00,0.0,NaN,NaN
+unionbeach,nj,2003-01-22,NaN,0.0,NaN
+losangeles,ca,2001-09-12,NaN,0.0,NaN
+saltlakecity,ut,1996-06-30,NaN,900.0,NaN
+chapelhill,nc,1996-06-15,NaN,517.0,NaN
+seattle,wa,1986-07-15,NaN,136.0,NaN
+houstontexas,tx,1984-09-01,NaN,352.0,NaN
+hampton,ga,1983-06-01,NaN,318.0,NaN
+avonlake,oh,1976-10-20,NaN,0.0,NaN
+tacoma,wa,1975-10-31,NaN,234.0,NaN
+myersspringcanyon,tx,2000-06-30,NaN,414.0,NaN
+managua(nicaragua),,2019-11-14,NaN,NaN,2.0
+lahore(pakistan),,2017-01-01,NaN,NaN,5.0
+newyorkcity(brooklyn),ny,2020-08-08 17:00:00,NaN,NaN,3.0
+westerly,ri,2020-06-11 23:00:00,NaN,NaN,5.0
+buenosaires(argentina),,2020-04-09 21:00:00,NaN,NaN,2.0
+northfield,vt,2020-04-02 20:00:00,NaN,NaN,14.0
+glenview,il,2020-03-07 19:00:00,NaN,NaN,2.0
+bristol,va,2020-01-15 20:00:00,NaN,NaN,5.0
+byron,il,2019-11-10 19:00:00,NaN,NaN,4.0
+flagstaff,az,2019-09-10 14:00:00,NaN,NaN,1.0
+medfield,ma,2019-08-24 04:00:00,NaN,NaN,2.0
+spokane,wa,2019-07-26 01:00:00,NaN,NaN,2.0
+syracuse,ny,2018-08-07 23:00:00,NaN,NaN,7.0
+grossile,mi,2017-09-18 12:00:00,NaN,NaN,5.0
+lasvegas,nv,2021-01-16 20:00:00,NaN,NaN,2.0
+bloomingdale,il,2021-01-09 08:00:00,NaN,NaN,4.0
+wilmington,de,2020-12-01 17:00:00,NaN,NaN,3.0
+louisville,ky,2020-07-13 14:00:00,NaN,NaN,2.0
+loraine,oh,2020-07-11,NaN,NaN,9.0
+doral,fl,2020-07-07,NaN,NaN,8.0
+ipswich,,2020-05-11,NaN,NaN,4.0
+newportnews,va,2020-03-14 15:00:00,NaN,NaN,1.0
+boksburg(gauteng)(southafrica),,2019-10-03 15:00:00,NaN,NaN,2.0
+minnetonka,mn,2019-08-22 04:00:00,NaN,NaN,1.0
+philadelphia,pa,2019-04-29 11:00:00,NaN,NaN,2.0
+philadelphia,pa,2019-04-01 13:00:00,NaN,NaN,2.0
+kuwait,,2019-01-01 04:00:00,NaN,NaN,1.0
+cameron,nc,2018-06-03,NaN,NaN,7.0
+newark,de,2017-07-24 03:00:00,NaN,NaN,9.0
+portland,or,2021-03-18,NaN,NaN,2.0
+hydepark,vt,2020-12-01 06:00:00,NaN,NaN,5.0
+southbend/jacksonville,ar,2020-09-26 03:00:00,NaN,NaN,5.0
+sunbury,pa,2020-08-16,NaN,NaN,5.0
+renton,wa,2020-08-13 02:00:00,NaN,NaN,2.0
+moorhead,mn,2020-04-24 11:00:00,NaN,NaN,1.0
+scottsdale,az,2020-04-07 18:00:00,NaN,NaN,2.0
+federalway,wa,2020-03-12 22:00:00,NaN,NaN,3.0
+laurel,md,2020-02-09 18:00:00,NaN,NaN,2.0
+springfield,pa,2020-01-06 05:00:00,NaN,NaN,4.0
+denver,co,2020-01-03 18:00:00,NaN,NaN,2.0
+chulavista,ca,2019-11-11 18:00:00,NaN,NaN,2.0
+phoenix/avondale/suprise,az,2019-11-11 17:00:00,NaN,NaN,2.0
+oakland,ca,2019-10-08,NaN,NaN,2.0
+coloradosprings,co,2019-10-04 04:00:00,NaN,NaN,1.0
+southgate,ca,2019-08-25 16:00:00,NaN,NaN,2.0
+olmstedfalls,oh,2019-08-08,NaN,NaN,2.0
+selden,ny,2019-02-11 23:00:00,NaN,NaN,4.0
+issaquah,wa,2019-01-13 15:00:00,NaN,NaN,2.0
+phoenix,az,2018-12-18 14:00:00,NaN,NaN,2.0
+anaheim,ca,2018-10-25 17:00:00,NaN,NaN,5.0
+castrovalley,ca,2018-10-06,NaN,NaN,2.0
+wheaton,il,2018-09-27 19:00:00,NaN,NaN,2.0
+chennai(india),in,2018-05-26 09:00:00,NaN,NaN,7.0
+lasvegas,nv,2018-05-03 18:00:00,NaN,NaN,2.0
+kalispell,mt,2017-08-04 23:00:00,NaN,NaN,5.0
+aurora,co,2016-07-03 21:00:00,NaN,NaN,7.0
+grafenhausen(germany),,2009-09-12 19:00:00,0.0,NaN,NaN
+forteustis,va,2021-01-28 13:00:00,NaN,NaN,14.0
+greenbrooke,nj,2021-01-04 11:00:00,NaN,NaN,5.0
+eaglelake,me,2020-12-31 17:00:00,NaN,NaN,16.0
+chicago,il,2020-12-15 11:00:00,NaN,NaN,3.0
+louisville,ky,2020-12-11 18:00:00,NaN,NaN,3.0
+spokane,wa,2020-12-04 23:00:00,NaN,NaN,2.0
+foresthills,ny,2020-12-03 06:00:00,NaN,NaN,1.0
+lathrop,ca,2020-11-15 20:00:00,NaN,NaN,1.0
+hendersonville,tn,2020-11-10 21:00:00,NaN,NaN,18.0
+omaha/papillion,ne,2020-11-04 19:00:00,NaN,NaN,3.0
+omaha/papillion,ne,2020-11-04 19:00:00,NaN,NaN,3.0
+aurora,co,2020-10-26 19:00:00,NaN,NaN,14.0
+abiquiu(near),nm,2020-09-15 22:00:00,NaN,NaN,2.0
+westlinn,or,2020-09-07 05:00:00,NaN,NaN,1.0
+tallahassee,fl,2020-08-30 21:00:00,NaN,NaN,25.0
+newyorkcity(brooklyn),ny,2020-08-29 17:00:00,NaN,NaN,8.0
+alexandria,va,2020-08-16 22:00:00,NaN,NaN,3.0
+weymouth,ma,2020-08-03 09:00:00,NaN,NaN,2.0
+mesa,az,2020-07-13 21:00:00,NaN,NaN,2.0
+camarillo,ca,2020-07-13 12:00:00,NaN,NaN,5.0
+sandiego,ca,2020-06-29 12:00:00,NaN,NaN,7.0
+owensound(canada),on,2020-05-30 04:00:00,NaN,NaN,5.0
+kirkland,il,2020-05-11,NaN,NaN,7.0
+bremerton,wa,2020-05-01 01:00:00,NaN,NaN,3.0
+calgary(canada),ab,2020-04-30 22:00:00,NaN,NaN,4.0
+trinidad,ca,2020-04-28 20:00:00,NaN,NaN,5.0
+chicago,il,2020-04-21 21:00:00,NaN,NaN,2.0
+laie,hi,2020-04-13 22:00:00,NaN,NaN,7.0
+powellriver(canada),bc,2020-04-09 11:00:00,NaN,NaN,2.0
+marilla,ny,2020-04-02 13:00:00,NaN,NaN,2.0
+norfolk,va,2020-03-18 03:00:00,NaN,NaN,2.0
+portland,or,2020-03-10 20:00:00,NaN,NaN,2.0
+issaquah,,2020-02-19,NaN,NaN,2.0
+duluth,mn,2020-02-16 22:00:00,NaN,NaN,1.0
+alexandria(near),la,2020-02-13 14:00:00,NaN,NaN,7.0
+miami,fl,2020-01-02,NaN,NaN,2.0
+duluth,mn,2020-01-01 22:00:00,NaN,NaN,14.0
+losangeles,ca,2020-01-01 07:00:00,NaN,NaN,1.0
+oberlin,oh,2020-01-01 03:00:00,NaN,NaN,14.0
+birmingham,al,2019-12-30 12:00:00,NaN,NaN,3.0
+newyorkcity(brooklynheights),ny,2019-12-23 18:00:00,NaN,NaN,2.0
+georgetown,in,2019-12-20 22:00:00,NaN,NaN,3.0
+lasvegas,nv,2019-12-04 22:00:00,NaN,NaN,7.0
+mcleansville,nc,2019-12-01 06:00:00,NaN,NaN,7.0
+cortemadera-tiburon,ca,2019-11-15 23:00:00,NaN,NaN,2.0
+baltimore,md,2019-11-08,NaN,NaN,7.0
+coconutcreek,fl,2019-10-30 22:00:00,NaN,NaN,3.0
+fresno,ca,2019-10-22 01:00:00,NaN,NaN,0.0
+whiteland,in,2019-10-14 08:00:00,NaN,NaN,1.0
+tampa,fl,2019-09-29 20:00:00,NaN,NaN,2.0
+portorchard,wa,2019-09-01 02:00:00,NaN,NaN,3.0
+roundrock,tx,2019-07-25,NaN,NaN,1.0
+queens,ny,2019-07-22,NaN,NaN,2.0
+pittsburgh,pa,2019-07-14 14:00:00,NaN,NaN,3.0
+chicago,il,2019-07-04 13:00:00,NaN,NaN,3.0
+losangeles,ca,2019-06-29 12:00:00,NaN,NaN,3.0
+louisville,ky,2019-06-28 01:00:00,NaN,NaN,3.0
+laveen,az,2019-05-19 15:00:00,NaN,NaN,3.0
+laveen,az,2019-05-19 14:00:00,NaN,NaN,0.0
+portland,or,2019-04-17,NaN,NaN,4.0
+nashville,tn,2019-04-07 22:00:00,NaN,NaN,25.0
+windsor,ct,2019-03-23 16:00:00,NaN,NaN,3.0
+toronto(canada),on,2019-03-23 04:00:00,NaN,NaN,2.0
+sparks,nv,2019-02-10 10:00:00,NaN,NaN,14.0
+siouxfalls,sd,2019-01-23 01:00:00,NaN,NaN,14.0
+sanantonio,tx,2019-01-20 23:00:00,NaN,NaN,2.0
+bassanodelgrappa(italy),,2018-12-05 03:00:00,NaN,NaN,1.0
+tampa,fl,2018-12-03 13:00:00,NaN,NaN,8.0
+cheney,wa,2018-10-18 20:00:00,NaN,NaN,2.0
+kapa'a,hi,2018-09-23 17:00:00,NaN,NaN,2.0
+toronto(canada),on,2018-09-05 23:00:00,NaN,NaN,2.0
+baltimore,md,2018-08-21 15:00:00,NaN,NaN,7.0
+bronx,ny,2018-08-16 15:00:00,NaN,NaN,3.0
+liverpool(uk/england),,2018-08-15,NaN,NaN,4.0
+minneapolis,mn,2018-08-06 22:00:00,NaN,NaN,7.0
+chantilly,va,2018-07-18,NaN,NaN,8.0
+buffalo,ny,2018-07-04 22:00:00,NaN,NaN,25.0
+cottagegrove,mn,2018-06-08 21:00:00,NaN,NaN,7.0
+washington,d.c.,2018-05-14,NaN,NaN,7.0
+calgary(canada),ab,2018-05-07 12:00:00,NaN,NaN,2.0
+jackson,nj,2018-02-26 01:00:00,NaN,NaN,5.0
+boise,id,2018-02-19 03:00:00,NaN,NaN,2.0
+newbrighton,mn,2016-12-27 11:00:00,NaN,NaN,14.0
+newbrighton,mn,2016-12-27 11:00:00,NaN,NaN,14.0
+anchorage,ak,2016-09-12 01:00:00,NaN,NaN,7.0
+berwyn,il,2016-04-07 12:00:00,NaN,NaN,14.0
+manassaspark,va,2016-01-16 01:00:00,NaN,NaN,7.0
+miami,fl,2015-09-07,NaN,233.0,NaN
+paducah,ky,2008-03-13,NaN,500.0,NaN
+philadelphia,pa,2004-12-24,NaN,104.0,NaN
+philadelphia,pa,2003-01-07,NaN,548.0,NaN
+largo,fl,2002-06-30,NaN,420.0,NaN
+voorhees,nj,1996-06-30,NaN,0.0,NaN
+portland,or,1993-09-15,NaN,543.0,NaN
+sandy,or,1993-09-15,NaN,543.0,NaN
+riorancho,nm,1991-06-01,NaN,689.0,NaN
+portland,or,1988-06-01,NaN,205.0,NaN
+crofton,md,1987-06-30,NaN,667.0,NaN
+philadelphia,pa,1982-06-30,NaN,516.0,NaN
+edina,mn,1981-09-29,NaN,546.0,NaN
+milwaukie,or,1981-04-14,NaN,738.0,NaN
+springfield,il,1979-10-31,NaN,24.0,NaN
+covington,wa,1978-05-15,NaN,336.0,NaN
+federalway/auburn,wa,1977-07-30,NaN,870.0,NaN
+scarborough,me,1975-06-15,NaN,126.0,NaN
+pawtucket,ri,1974-01-24,NaN,294.0,NaN
+graybill,in,1973-09-23,NaN,672.0,NaN
+st.petersburg,fl,1970-03-10,NaN,666.0,NaN
+sanantonio,tx,2021-01-26 18:00:00,NaN,NaN,2.0
+chicago,il,2020-11-03 21:00:00,NaN,NaN,2.0
+mullicahillf,nj,2020-10-21 22:00:00,NaN,NaN,3.0
+newyorkcity(brooklyn),ny,2020-10-05 20:00:00,NaN,NaN,3.0
+losangeles,ca,2020-07-12,NaN,NaN,2.0
+cool,ca,2020-05-10 23:00:00,NaN,NaN,5.0
+warrior,al,2020-04-07 18:00:00,NaN,NaN,7.0
+stockton,ca,2020-04-01,NaN,NaN,1.0
+lewisville,tx,2019-09-30 19:00:00,NaN,NaN,3.0
+flagstaff,az,2019-09-19 09:00:00,NaN,NaN,1.0
+troy,il,2019-09-14 22:00:00,NaN,NaN,2.0
+albuquerque,nm,2019-08-22 12:00:00,NaN,NaN,2.0
+tempe,az,2019-04-26 11:00:00,NaN,NaN,1.0
+portsmouth,va,2019-03-12 14:00:00,NaN,NaN,1.0
+summerville,sc,2019-02-26 21:00:00,NaN,NaN,3.0
+clementon,nj,2019-02-22 05:00:00,NaN,NaN,4.0
+calgary(canada),ab,2019-01-01 13:00:00,NaN,NaN,3.0
+renton,wa,1979-06-30,NaN,366.0,NaN
+portland,or,2021-04-12,NaN,NaN,2.0
+portland,or,2021-04-10,NaN,NaN,2.0
+kirkland,wa,2021-03-25 21:00:00,NaN,NaN,3.0
+tramonto,az,2021-02-06 19:00:00,NaN,NaN,2.0
+boise,id,2021-01-17 20:00:00,NaN,NaN,4.0
+marcushook,pa,2021-01-01 12:00:00,NaN,NaN,3.0
+saltlakecity,ut,2020-12-25 20:00:00,NaN,NaN,2.0
+saltlakecity,ut,2020-12-25 20:00:00,NaN,NaN,2.0
+starkville,ms,2020-12-20,NaN,NaN,8.0
+royalpalmbeach,fl,2020-11-21,NaN,NaN,3.0
+kirkland,qc,2020-11-08 03:00:00,NaN,NaN,3.0
+decatur,ga,2020-10-25 20:00:00,NaN,NaN,3.0
+monroe,wa,2020-10-10 19:00:00,NaN,NaN,7.0
+sandiego,ca,2020-09-20 23:00:00,NaN,NaN,2.0
+stoneham,ma,2020-09-04 21:00:00,NaN,NaN,2.0
+mattapan,ma,2020-09-04 14:00:00,NaN,NaN,2.0
+johnscreek,ga,2020-08-21 22:00:00,NaN,NaN,26.0
+miamibeach,fl,2020-08-04 22:00:00,NaN,NaN,8.0
+evergreenpark,il,2020-07-23 23:00:00,NaN,NaN,2.0
+seattle,wa,2020-07-04 23:00:00,NaN,NaN,2.0
+gibsonton,fl,2020-06-30 22:00:00,NaN,NaN,7.0
+manor,tx,2020-06-04 21:00:00,NaN,NaN,2.0
+austin,tx,2020-05-11 12:00:00,NaN,NaN,1.0
+jonesboro,ga,2020-05-10 22:00:00,NaN,NaN,1.0
+oberlin,oh,2020-05-03 22:00:00,NaN,NaN,3.0
+esfehan(iran),,2020-05-01 02:00:00,NaN,NaN,1.0
+seattle,wa,2020-03-25 21:00:00,NaN,NaN,3.0
+jacksonville,fl,2020-02-24 21:00:00,NaN,NaN,5.0
+sandiego,ca,2020-02-03 03:00:00,NaN,NaN,3.0
+lamesa,ca,2020-01-18 21:00:00,NaN,NaN,2.0
+losangeles,ca,2020-01-06 20:00:00,NaN,NaN,2.0
+fortlauderdale,fl,2019-12-31 23:00:00,NaN,NaN,2.0
+spokane,wa,2019-12-28 21:00:00,NaN,NaN,3.0
+sarajevo(bosnia),,2019-12-23 17:00:00,NaN,NaN,7.0
+louisville,ky,2019-12-11 21:00:00,NaN,NaN,2.0
+houston,tx,2019-10-10 19:00:00,NaN,NaN,3.0
+blackmountain,nc,2019-10-02 22:00:00,NaN,NaN,1.0
+watertown,ny,2019-10-01 23:00:00,NaN,NaN,9.0
+wilmington,de,2019-09-27 20:00:00,NaN,NaN,3.0
+northroyalton,oh,2019-09-22 20:00:00,NaN,NaN,2.0
+aurora,co,2019-09-01 23:00:00,NaN,NaN,2.0
+ridge,ny,2019-07-04 22:00:00,NaN,NaN,3.0
+honolulu,hi,2019-07-04 02:00:00,NaN,NaN,3.0
+raleigh,nc,2019-06-04 23:00:00,NaN,NaN,2.0
+burlington,ky,2019-06-03 22:00:00,NaN,NaN,2.0
+phoenix,az,2019-05-28 01:00:00,NaN,NaN,2.0
+tarponsprings,fl,2019-05-04 03:00:00,NaN,NaN,8.0
+virginiabeach,va,2019-04-16 23:00:00,NaN,NaN,1.0
+lasvegas,nv,2019-03-27 21:00:00,NaN,NaN,3.0
+spokane,wa,2018-12-30 18:00:00,NaN,NaN,3.0
+littlerock,ar,2018-11-20 17:00:00,NaN,NaN,2.0
+littlerock,ar,2018-11-20 17:00:00,NaN,NaN,2.0
+millcreek,ut,2018-11-10 14:00:00,NaN,NaN,2.0
+marinadelrey,ca,2018-10-10 22:00:00,NaN,NaN,3.0
+toronto(canada),on,2018-09-06 21:00:00,NaN,NaN,3.0
+pittsburgh,pa,2018-07-29 23:00:00,NaN,NaN,3.0
+jackson,sc,2018-02-27 21:00:00,NaN,NaN,1.0
+yakima,wa,2018-02-27,NaN,NaN,1.0
+portland,or,2017-11-23 19:00:00,NaN,NaN,7.0
+pueblo,co,2017-07-04 21:00:00,NaN,NaN,7.0
+midwestcity,ok,2017-04-21 23:00:00,NaN,NaN,7.0
+olympia,wa,2017-04-21,NaN,NaN,7.0
+whitefish,mt,2016-10-06 21:00:00,NaN,NaN,7.0
+fresno,ca,2016-07-27 21:00:00,NaN,NaN,5.0
+london(canada),on,2015-12-24 03:00:00,NaN,NaN,7.0
+eastgrandrapids,mi,2014-12-25,NaN,0.0,NaN
+lampertheim(germany),,2009-01-01,NaN,0.0,NaN
+seminole,fl,2007-12-05,NaN,595.0,NaN
+hamburg(germany),,2007-07-15,NaN,648.0,NaN
+massachusetts/newhampshire,nh,1978-01-27,NaN,0.0,NaN
+fairfax,vt,2021-04-10 21:00:00,NaN,NaN,2.0
+st.petersburg,fl,2021-03-27 02:00:00,NaN,NaN,2.0
+mojave,ca,2021-03-15 21:00:00,NaN,NaN,5.0
+mojave,ca,2021-03-15 21:00:00,NaN,NaN,5.0
+belleville,on,2020-12-29 23:00:00,NaN,NaN,2.0
+virginiacity,nv,2020-12-21 18:00:00,NaN,NaN,5.0
+campbell,ca,2020-10-31,NaN,NaN,5.0
+argyle,ny,2020-08-20 22:00:00,NaN,NaN,3.0
+riverdale,ga,2020-08-19 15:00:00,NaN,NaN,18.0
+spokane,wa,2020-07-15 23:00:00,NaN,NaN,2.0
+lasvegas,nv,2020-04-18 21:00:00,NaN,NaN,3.0
+bangalore(india),,2020-04-05 21:00:00,NaN,NaN,2.0
+bellevue,wa,2020-03-31 21:00:00,NaN,NaN,4.0
+tucson,az,2020-03-31 02:00:00,NaN,NaN,1.0
+lamesa,ca,2020-03-26 22:00:00,NaN,NaN,3.0
+detroit,mi,2020-01-20 15:00:00,NaN,NaN,4.0
+mt.pleasant,sc,2019-12-23 22:00:00,NaN,NaN,9.0
+waianae,hi,2019-12-07 20:00:00,NaN,NaN,2.0
+denver,co,2019-11-18 07:00:00,NaN,NaN,2.0
+baldwinsville,ny,2019-10-28 22:00:00,NaN,NaN,2.0
+atlanta,ga,2019-10-13 21:00:00,NaN,NaN,0.0
+beloit,wi,2019-08-30 21:00:00,NaN,NaN,3.0
+boise,id,2019-08-25 12:00:00,NaN,NaN,1.0
+indianapolis,in,2019-08-22 03:00:00,NaN,NaN,8.0
+newyorkcity,ny,2019-07-24 23:00:00,NaN,NaN,3.0
+franklinville,nj,2019-07-18 22:00:00,NaN,NaN,7.0
+huntington,md,2019-07-03,NaN,NaN,26.0
+southjordan,ut,2019-05-30 21:00:00,NaN,NaN,0.0
+wadrum(jordan),,2019-05-12 22:00:00,NaN,NaN,1.0
+addisababa(ethiopia),,2019-02-03 11:00:00,NaN,NaN,1.0
+detroit,mi,2019-01-05 14:00:00,NaN,NaN,5.0
+detroit,mi,2019-01-05 14:00:00,NaN,NaN,5.0
+baltimore,md,2018-11-03 23:00:00,NaN,NaN,2.0
+torrance,ca,2018-10-18 17:00:00,NaN,NaN,1.0
+baldwinsville,ny,2018-10-04 17:00:00,NaN,NaN,7.0
+oldsmar,fl,2018-09-17 04:00:00,NaN,NaN,2.0
+daejeon(southkorea),,2018-09-10 19:00:00,NaN,NaN,1.0
+islip,ny,2018-08-05 23:00:00,NaN,NaN,2.0
+portorchard,wa,2017-11-03 22:00:00,NaN,NaN,5.0
+bellbrook,oh,2017-10-16 20:00:00,NaN,NaN,5.0
+longbeach,ca,2017-03-12 20:00:00,NaN,NaN,5.0
+eastlosangeles(boyleheights),ca,2015-12-10 17:00:00,NaN,NaN,5.0
+northridgeville,oh,2008-07-12,NaN,498.0,NaN
+phoenix,az,1978-08-01,NaN,666.0,NaN
+phoenix,az,1978-08-01,NaN,666.0,NaN
+seattle,wa,2021-03-25 21:00:00,NaN,NaN,3.0
+louisville,ky,2021-03-09 19:00:00,NaN,NaN,3.0
+ramona,ca,2021-02-18 05:00:00,NaN,NaN,5.0
+grandjunction,co,2021-02-11 06:00:00,NaN,NaN,1.0
+aurora,co,2021-01-31 11:00:00,NaN,NaN,2.0
+brooklyn,ny,2021-01-10 18:00:00,NaN,NaN,2.0
+granitecity,il,2020-12-04 18:00:00,NaN,NaN,2.0
+arroyogrande,ca,2020-12-03 18:00:00,NaN,NaN,5.0
+fredericton,nb,2020-11-21 21:00:00,NaN,NaN,2.0
+brighton,co,2020-11-18 18:00:00,NaN,NaN,3.0
+brighton,co,2020-11-18 18:00:00,NaN,NaN,3.0
+kula,hi,2020-10-24 22:00:00,NaN,NaN,2.0
+hendersonville,tn,2020-09-22 20:00:00,NaN,NaN,3.0
+blackwood,nj,2020-08-16 08:00:00,NaN,NaN,8.0
+zillah,wa,2020-08-07 04:00:00,NaN,NaN,1.0
+reno,nv,2020-06-28 11:00:00,NaN,NaN,2.0
+honolulu,hi,2020-06-03 20:00:00,NaN,NaN,2.0
+hannibal,m0,2020-04-26 21:00:00,NaN,NaN,1.0
+omaha,ne,2020-04-18 21:00:00,NaN,NaN,2.0
+calgary(canada),ab,2020-04-18 21:00:00,NaN,NaN,4.0
+vancouver,wa,2020-04-14 05:00:00,NaN,NaN,2.0
+vancouver,wa,2020-04-14 05:00:00,NaN,NaN,2.0
+kinistino(canada),sk,2020-03-28 21:00:00,NaN,NaN,1.0
+star,id,2020-03-28 21:00:00,NaN,NaN,3.0
+wyndmoor,pa,2020-03-20 22:00:00,NaN,NaN,7.0
+hamilton,oh,2020-03-20,NaN,NaN,7.0
+calgary(canada),ab,2020-03-15 01:00:00,NaN,NaN,12.0
+williston,vt,2020-02-23 05:00:00,NaN,NaN,1.0
+waialuamolokai,hi,2020-02-04 06:00:00,NaN,NaN,2.0
+centennial,co,2020-01-19 21:00:00,NaN,NaN,2.0
+aurora,co,2020-01-14 19:00:00,NaN,NaN,2.0
+monroe,or,2019-12-23,NaN,NaN,7.0
+sanfrancisco,ca,2019-12-22 18:00:00,NaN,NaN,9.0
+reno,nv,2019-12-22 18:00:00,NaN,NaN,0.0
+gloucestercity,nj,2019-12-21 18:00:00,NaN,NaN,4.0
+whiteoak,md,2019-12-10 17:00:00,NaN,NaN,7.0
+adelaide(australia),,2019-12-05 22:00:00,NaN,NaN,3.0
+holladay,ut,2019-12-03 19:00:00,NaN,NaN,3.0
+florissant,mo,2019-11-24,NaN,NaN,3.0
+locustgrove,ok,2019-11-12 18:00:00,NaN,NaN,2.0
+playavista,ca,2019-11-11 18:00:00,NaN,NaN,2.0
+vancouver(canada),bc,2019-11-06,NaN,NaN,2.0
+boyntonbeach,fl,2019-10-06 23:00:00,NaN,NaN,3.0
+tempe,az,2019-10-02 20:00:00,NaN,NaN,2.0
+leaguecity,tx,2019-09-06 21:00:00,NaN,NaN,2.0
+calgary(canada),ab,2019-09-02 20:00:00,NaN,NaN,2.0
+nottingham,md,2019-08-23,NaN,NaN,7.0
+westvancouver(canada),bc,2019-08-18 16:00:00,NaN,NaN,4.0
+isleofpalms,sc,2019-07-30 22:00:00,NaN,NaN,18.0
+marion,nc,2019-07-25 19:00:00,NaN,NaN,1.0
+duluth,mn,2019-07-01 23:00:00,NaN,NaN,3.0
+cary,nc,2019-06-28 04:00:00,NaN,NaN,3.0
+eastweymouth,ma,2019-05-30 21:00:00,NaN,NaN,4.0
+elmhurst,il,2019-05-26 23:00:00,NaN,NaN,3.0
+elmhurst,il,2019-05-26 23:00:00,NaN,NaN,3.0
+westseattle,wa,2019-05-26 03:00:00,NaN,NaN,3.0
+st.paul,mn,2019-05-25,NaN,NaN,3.0
+fishers,in,2019-05-05 11:00:00,NaN,NaN,2.0
+troutdale,or,2019-04-29 21:00:00,NaN,NaN,2.0
+coralsprings,fl,2019-03-28,NaN,NaN,2.0
+dixon,ca,2019-02-17 03:00:00,NaN,NaN,2.0
+fulton,ny,2019-01-12 20:00:00,NaN,NaN,3.0
+yarmouth,me,2019-01-07 23:00:00,NaN,NaN,1.0
+sparks,nv,2018-11-29 16:00:00,NaN,NaN,8.0
+lasvegas,nv,2018-11-14 16:00:00,NaN,NaN,3.0
+raleigh,nc,2018-10-31 22:00:00,NaN,NaN,3.0
+sandiego,ca,2018-08-29 20:00:00,NaN,NaN,3.0
+aurora,co,2018-08-28 11:00:00,NaN,NaN,2.0
+conway,ar,2018-08-10 21:00:00,NaN,NaN,2.0
+millington,tn,2018-08-07 21:00:00,NaN,NaN,2.0
+newrussiatownship,oh,2018-07-27 05:00:00,NaN,NaN,7.0
+frederickson,wa,2017-11-10 01:00:00,NaN,NaN,7.0
+jacksonville,fl,2017-06-01 20:00:00,NaN,NaN,25.0
+chester,pa,2016-12-11 14:00:00,NaN,NaN,14.0
+eugene,or,2016-11-09 01:00:00,NaN,NaN,5.0
+berlin(germany),,2008-06-06 15:00:00,38.0,NaN,NaN
+glenoaks,ny,2021-04-19 22:00:00,NaN,NaN,3.0
+palatine,il,2021-04-11 10:00:00,NaN,NaN,4.0
+boise,id,2021-03-29 22:00:00,NaN,NaN,2.0
+houston,tx,2021-03-19 04:00:00,NaN,NaN,1.0
+fredericksburg,va,2021-03-17 08:00:00,NaN,NaN,5.0
+boston,ma,2021-03-07,NaN,679.0,2.0
+willowbrook,il,2021-02-23 22:00:00,NaN,NaN,3.0
+coloradosprings,co,2021-02-03 01:00:00,NaN,NaN,1.0
+tempe,az,2021-01-12 19:00:00,NaN,NaN,2.0
+belleville,il,2021-01-12 18:00:00,NaN,NaN,2.0
+rapidcity,sd,2021-01-01,NaN,NaN,1.0
+mckeesrocks,pa,2020-12-29 20:00:00,NaN,NaN,2.0
+newyork,ny,2020-12-12 21:00:00,NaN,NaN,5.0
+washington,dc,2020-12-10 18:00:00,NaN,NaN,2.0
+lagrange,in,2020-12-10 17:00:00,NaN,NaN,5.0
+tucson,az,2020-12-09,NaN,NaN,1.0
+greenfield,in,2020-12-09 15:00:00,NaN,NaN,3.0
+greenfield,in,2020-12-08 15:00:00,NaN,NaN,4.0
+nashville,tn,2020-12-04 18:00:00,NaN,NaN,5.0
+nashville,tn,2020-12-04 18:00:00,NaN,NaN,5.0
+nashville,tn,2020-12-04 18:00:00,NaN,NaN,5.0
+boise,id,2020-12-03 20:00:00,NaN,NaN,1.0
+greatfalls,mt,2020-12-03 04:00:00,NaN,NaN,1.0
+hopkins,mn,2020-12-02,NaN,NaN,3.0
+saintpetersburg,fl,2020-11-26 22:00:00,NaN,NaN,2.0
+irving,tx,2020-11-26 20:00:00,NaN,NaN,2.0
+denver,co,2020-11-26 18:00:00,NaN,NaN,3.0
+sandiego,ca,2020-11-25 16:00:00,NaN,NaN,2.0
+salem,ma,2020-11-23 16:00:00,NaN,NaN,9.0
+colchester,vt,2020-11-17 03:00:00,NaN,NaN,4.0
+hernando,fl,2020-11-14 08:00:00,NaN,NaN,5.0
+phoenix,az,2020-11-12 19:00:00,NaN,NaN,2.0
+stockton,ca,2020-11-09 19:00:00,NaN,NaN,1.0
+swampscott,ma,2020-11-06 17:00:00,NaN,NaN,2.0
+southbarrington,il,2020-11-05 22:00:00,NaN,NaN,2.0
+sanjose,ca,2020-10-30 21:00:00,NaN,NaN,5.0
+lakeworth,fl,2020-10-25 22:00:00,NaN,NaN,8.0
+boston,ma,2020-10-21 19:00:00,NaN,NaN,3.0
+compton,ca,2020-10-17 07:00:00,NaN,NaN,1.0
+cary,nc,2020-10-14 12:00:00,NaN,NaN,2.0
+wellington(canada),on,2020-10-12 03:00:00,NaN,NaN,1.0
+bethelpark,pa,2020-10-03 20:00:00,NaN,NaN,3.0
+covington,pa,2020-10-01 04:00:00,NaN,NaN,7.0
+aurora,co,2020-09-30 23:00:00,NaN,NaN,2.0
+vancouver(canada),bc,2020-09-20 22:00:00,NaN,NaN,4.0
+walnutcreek,ca,2020-09-17 20:00:00,NaN,NaN,2.0
+sandiego,ca,2020-09-17 04:00:00,NaN,NaN,2.0
+centerconway,nh,2020-09-15 05:00:00,NaN,NaN,5.0
+grandprairie,tx,2020-09-15,NaN,NaN,3.0
+yorktown,ny,2020-09-10 20:00:00,NaN,NaN,8.0
+hull,ma,2020-09-01 05:00:00,NaN,NaN,2.0
+eastberlin,pa,2020-08-29 20:00:00,NaN,NaN,7.0
+maplehts,oh,2020-08-29 18:00:00,NaN,NaN,3.0
+choctaw,ok,2020-08-28 22:00:00,NaN,NaN,2.0
+st.paul,mn,2020-08-27 21:00:00,NaN,NaN,2.0
+winnipegosis(canada),mb,2020-08-26 23:00:00,NaN,NaN,1.0
+littlerock,ar,2020-08-23 23:00:00,NaN,NaN,2.0
+buffalo,ny,2020-08-22 22:00:00,NaN,NaN,2.0
+satellitebeach,fl,2020-08-20 22:00:00,NaN,NaN,25.0
+knoxville,ia,2020-08-20 21:00:00,NaN,NaN,3.0
+towson,md,2020-08-19 21:00:00,NaN,NaN,3.0
+corinth,tx,2020-08-18 03:00:00,NaN,NaN,18.0
+superior,wi,2020-08-17 22:00:00,NaN,NaN,2.0
+wedgfield,fl,2020-08-17 01:00:00,NaN,NaN,3.0
+hantscounty(canada),ns,2020-08-15 22:00:00,NaN,NaN,17.0
+davis,ca,2020-08-15 05:00:00,NaN,NaN,1.0
+seattle,wa,2020-08-13 23:00:00,NaN,NaN,2.0
+brampton(canada),on,2020-08-12 23:00:00,NaN,NaN,2.0
+surabaya(indonesia),,2020-08-08 22:00:00,NaN,NaN,2.0
+hamburg(wilhelmsburg)(germany),,2020-08-08 22:00:00,0.0,NaN,3.0
+islip,ny,2020-08-08 20:00:00,NaN,NaN,3.0
+losangeles/highlandpark,ca,2020-08-07 22:00:00,NaN,NaN,2.0
+detroit,mi,2020-08-01 20:00:00,NaN,NaN,7.0
+portland,or,2020-08-01,NaN,NaN,2.0
+newyork,ny,2020-07-31 20:00:00,NaN,NaN,7.0
+northattleboro,ma,2020-07-28 21:00:00,NaN,NaN,7.0
+surfsidebeach,sc,2020-07-25 21:00:00,NaN,NaN,7.0
+ottawa(canada),on,2020-07-25,NaN,NaN,2.0
+northlasvegas,nv,2020-07-16 21:00:00,NaN,NaN,2.0
+superior,wi,2020-07-15 22:00:00,NaN,NaN,2.0
+cicero,ny,2020-07-15 03:00:00,NaN,NaN,2.0
+lakeport,ny,2020-07-15 03:00:00,NaN,NaN,2.0
+louisville,ky,2020-07-13 03:00:00,NaN,NaN,18.0
+newyorkcity(manhattan),ny,2020-07-09 18:00:00,NaN,NaN,3.0
+london(uk/england),,2020-07-01 03:00:00,NaN,NaN,4.0
+jamestown,ri,2020-06-28 23:00:00,NaN,NaN,7.0
+sanantonio,tx,2020-06-27 05:00:00,NaN,NaN,5.0
+lithiasprings,ga,2020-06-26 23:00:00,NaN,NaN,5.0
+chicagoheights,il,2020-06-24 20:00:00,NaN,NaN,25.0
+toronto(canada),on,2020-06-23,NaN,NaN,7.0
+damascus,or,2020-06-17 23:00:00,NaN,NaN,3.0
+edwardsville,il,2020-06-15 03:00:00,NaN,NaN,2.0
+cypress,tx,2020-06-09 22:00:00,NaN,NaN,18.0
+universalcity,tx,2020-06-04 02:00:00,NaN,NaN,2.0
+sabah(tawau)(malaysia),,2020-05-27 19:00:00,NaN,NaN,8.0
+denver,co,2020-05-27 03:00:00,NaN,NaN,2.0
+dalycity,ca,2020-05-26 13:00:00,NaN,NaN,2.0
+conestoga,pa,2020-05-23,NaN,NaN,5.0
+orangepark,fl,2020-05-22 13:00:00,NaN,NaN,5.0
+silverspring,md,2020-05-21 22:00:00,NaN,NaN,4.0
+litchfieldpark,az,2020-05-17 21:00:00,NaN,NaN,2.0
+fresno,ca,2020-05-16 10:00:00,NaN,NaN,2.0
+kent,wa,2020-05-16 01:00:00,NaN,NaN,3.0
+york,,2020-05-15,NaN,NaN,4.0
+phoenix,az,2020-05-14 02:00:00,NaN,NaN,2.0
+chandler/gilbert,az,2020-05-09 20:00:00,NaN,NaN,3.0
+oakpark,il,2020-05-08 13:00:00,NaN,NaN,3.0
+independence,oh,2020-05-07 02:00:00,NaN,NaN,2.0
+miami,fl,2020-05-06 22:00:00,NaN,NaN,2.0
+miami,fl,2020-05-06 22:00:00,NaN,NaN,2.0
+sanantonio,tx,2020-05-06 21:00:00,NaN,NaN,18.0
+gardencity,mi,2020-05-03 22:00:00,NaN,NaN,3.0
+palmbay,fl,2020-04-30 21:00:00,NaN,NaN,7.0
+coralgables,fl,2020-04-30 21:00:00,NaN,NaN,8.0
+millington,tn,2020-04-28 22:00:00,NaN,NaN,7.0
+burnaby(canada),bc,2020-04-27 23:00:00,NaN,NaN,2.0
+northpotomac,md,2020-04-27 21:00:00,NaN,NaN,3.0
+fortwright,ky,2020-04-26 22:00:00,NaN,NaN,4.0
+goodyear,az,2020-04-23 22:00:00,NaN,NaN,2.0
+chicago,il,2020-04-20 22:00:00,NaN,NaN,3.0
+cincinnati,oh,2020-04-18 22:00:00,NaN,NaN,3.0
+fridley,mn,2020-04-18 21:00:00,NaN,NaN,2.0
+newbrighton,mn,2020-04-18 21:00:00,NaN,NaN,2.0
+liberty,mo,2020-04-18 21:00:00,NaN,NaN,2.0
+niles,mi,2020-04-18 10:00:00,NaN,NaN,5.0
+toronto(canada),on,2020-04-17,NaN,NaN,2.0
+northplains,or,2020-04-17 22:00:00,NaN,NaN,2.0
+saltlakecity,ut,2020-04-17 21:00:00,NaN,NaN,2.0
+gresham,or,2020-04-17 20:00:00,NaN,NaN,2.0
+peoria,az,2020-04-17 20:00:00,NaN,NaN,2.0
+litchfieldpark,az,2020-04-17 20:00:00,NaN,NaN,2.0
+washougal,wa,2020-04-17 20:00:00,NaN,NaN,2.0
+phoenix,az,2020-04-17 20:00:00,NaN,NaN,2.0
+eaglecreek,or,2020-04-16 22:00:00,NaN,NaN,2.0
+nampa,id,2020-04-16 22:00:00,NaN,NaN,1.0
+wapato,wa,2020-04-16 21:00:00,NaN,NaN,2.0
+brentwood,ca,2020-04-16 21:00:00,NaN,NaN,2.0
+thousandoaks,ca,2020-04-16 21:00:00,NaN,NaN,5.0
+boise,id,2020-04-16 10:00:00,NaN,NaN,1.0
+lasvegas,nv,2020-04-14 21:00:00,NaN,NaN,1.0
+bathurst(canada),nb,2020-04-14 20:00:00,NaN,NaN,1.0
+davis,ca,2020-04-14 04:00:00,NaN,NaN,1.0
+antalya,,2020-04-13 23:00:00,NaN,NaN,1.0
+westislip,ny,2020-04-13 21:00:00,NaN,NaN,5.0
+coronado,ca,2020-04-12 21:00:00,NaN,NaN,3.0
+cliftonheights,pa,2020-04-10 23:00:00,NaN,NaN,3.0
+toronto(canada),on,2020-04-10 22:00:00,NaN,NaN,2.0
+indianrocksbeach,fl,2020-04-10,NaN,NaN,7.0
+saltlakecity,ut,2020-04-09 02:00:00,NaN,NaN,2.0
+spokane,wa,2020-04-02 20:00:00,NaN,NaN,3.0
+portland,me,2020-03-31 20:00:00,NaN,NaN,2.0
+regina(canada),sk,2020-03-30 20:00:00,NaN,NaN,3.0
+sydney(australia,,2020-03-28 04:00:00,NaN,NaN,3.0
+boise,id,2020-03-26 21:00:00,NaN,NaN,2.0
+cheyenne,wy,2020-03-25 21:00:00,NaN,NaN,2.0
+summerland,ca,2020-03-24 21:00:00,NaN,NaN,17.0
+waldport,or,2020-03-24 21:00:00,NaN,NaN,7.0
+liverpool,ny,2020-03-22 21:00:00,NaN,NaN,2.0
+wilmington,de,2020-03-21 22:00:00,NaN,NaN,2.0
+astoria,ny,2020-03-21 21:00:00,NaN,NaN,2.0
+boulder,co,2020-03-21 21:00:00,NaN,NaN,5.0
+safetyharbor,fl,2020-03-21 21:00:00,NaN,NaN,2.0
+battleground,wa,2020-03-21 20:00:00,NaN,NaN,2.0
+glenellyn,il,2020-03-21 20:00:00,NaN,NaN,3.0
+mahe(seychelles),,2020-03-21 19:00:00,NaN,NaN,18.0
+louisville,ky,2020-03-21 09:00:00,NaN,NaN,4.0
+laveen,az,2020-03-19 20:00:00,NaN,NaN,2.0
+saltlakecity,ut,2020-03-19 12:00:00,NaN,NaN,3.0
+cottonwoodheights,ut,2020-03-12 09:00:00,NaN,NaN,2.0
+boise,id,2020-03-11 23:00:00,NaN,NaN,1.0
+lasvegas,nv,2020-03-11 22:00:00,NaN,NaN,3.0
+lasvegas,nv,2020-03-05 20:00:00,NaN,NaN,2.0
+northlasvegas,nv,2020-03-05 20:00:00,NaN,NaN,2.0
+cincinnati,oh,2020-03-05 08:00:00,NaN,NaN,1.0
+fairviewheights,il,2020-03-04 20:00:00,NaN,NaN,2.0
+fresno,ca,2020-03-04 20:00:00,NaN,NaN,2.0
+stillwater,mn,2020-03-03 21:00:00,NaN,NaN,2.0
+carson,ca,2020-02-27 05:00:00,NaN,NaN,1.0
+honolulu,hi,2020-02-23 22:00:00,NaN,NaN,3.0
+centralia,wa,2020-02-23 21:00:00,NaN,NaN,7.0
+maplevalley,wa,2020-02-21 05:00:00,NaN,NaN,1.0
+toronto(canada),on,2020-02-20 21:00:00,NaN,NaN,3.0
+boise,id,2020-02-19 20:00:00,NaN,NaN,1.0
+skokie,il,2020-02-15 20:00:00,NaN,NaN,14.0
+grandterrace,ca,2020-02-15 19:00:00,NaN,NaN,5.0
+mesa,az,2020-02-15 17:00:00,NaN,NaN,2.0
+arlington,va,2020-02-05 23:00:00,NaN,NaN,7.0
+arlington,va,2020-02-04 23:00:00,NaN,NaN,7.0
+anacortes,wa,2020-02-03 06:00:00,NaN,NaN,7.0
+buckhannon,wv,2020-01-31 04:00:00,NaN,NaN,5.0
+mesa,az,2020-01-30 22:00:00,NaN,NaN,2.0
+wanaque,ny,2020-01-30 07:00:00,NaN,NaN,2.0
+tampa,fl,2020-01-24,NaN,NaN,4.0
+tirana(albania),,2020-01-20 19:00:00,NaN,NaN,1.0
+decaturville,tn,2020-01-18 17:00:00,NaN,NaN,5.0
+creedmoor/wakeforest,nc,2020-01-17 19:00:00,NaN,NaN,2.0
+northhaven,ct,2020-01-16 16:00:00,NaN,NaN,7.0
+olocau(spain),,2020-01-15 20:00:00,NaN,NaN,2.0
+loslunas,nm,2020-01-14 19:00:00,NaN,NaN,2.0
+chandler,az,2020-01-14 19:00:00,NaN,NaN,2.0
+coralsprings,fl,2020-01-12 19:00:00,NaN,NaN,7.0
+calgary(canada),ab,2020-01-01 19:00:00,NaN,NaN,3.0
+boise,id,2019-12-24 21:00:00,NaN,NaN,4.0
+hayward,ca,2019-12-22 18:00:00,NaN,NaN,8.0
+flattopmountain,cedarvalley,2019-12-20 17:00:00,NaN,NaN,1.0
+fortlauderdale,fl,2019-12-16 16:00:00,NaN,NaN,3.0
+denver,co,2019-12-15 17:00:00,NaN,NaN,3.0
+arbutus,md,2019-12-14 21:00:00,NaN,NaN,4.0
+ruskin,fl,2019-12-14 19:00:00,NaN,NaN,2.0
+brooklyn,newyork,2019-12-12 05:00:00,NaN,NaN,2.0
+litchfieldpark,az,2019-12-10 19:00:00,NaN,NaN,2.0
+tallahassee,fl,2019-12-09 18:00:00,NaN,NaN,3.0
+lacenter,wa,2019-12-09 05:00:00,NaN,NaN,5.0
+highway(canada),ab,2019-12-06 06:00:00,NaN,NaN,2.0
+st.louis,mo,2019-12-03 23:00:00,NaN,NaN,2.0
+tehran(iran),,2019-12-01 15:00:00,NaN,NaN,2.0
+phoenix,az,2019-11-29 18:00:00,NaN,NaN,8.0
+russellville,ar,2019-11-28 22:00:00,NaN,NaN,8.0
+happyvalley,or,2019-11-27 23:00:00,NaN,NaN,4.0
+charlestonlake(canada),on,2019-11-25 05:00:00,NaN,NaN,4.0
+haiku,hi,2019-11-25,NaN,NaN,2.0
+knoxville,tn,2019-11-23 18:00:00,NaN,NaN,7.0
+tuscan,az,2019-11-23 18:00:00,NaN,NaN,1.0
+glendale,az,2019-11-23 06:00:00,NaN,NaN,2.0
+greatneck,ny,2019-11-23 03:00:00,NaN,NaN,2.0
+lutz,fl,2019-11-22 06:00:00,NaN,NaN,1.0
+merrittisland,fl,2019-11-20 19:00:00,NaN,NaN,2.0
+tonopah,nv,2019-11-20 19:00:00,NaN,NaN,7.0
+aboveportblair,,2019-11-20 04:00:00,NaN,NaN,5.0
+lakelasvegas,nv,2019-11-20 02:00:00,NaN,NaN,7.0
+memphis,tn,2019-11-16 23:00:00,NaN,NaN,2.0
+aminpur(india),,2019-11-12 18:00:00,NaN,NaN,5.0
+mesa,az,2019-11-11 19:00:00,NaN,NaN,2.0
+laurenceharbor,nj,2019-11-08 19:00:00,NaN,NaN,2.0
+vancouver,wa,2019-11-07 19:00:00,NaN,NaN,3.0
+capetown(southafrica),,2019-11-01 04:00:00,NaN,NaN,1.0
+lakeworth,fl,2019-10-30 06:00:00,NaN,NaN,2.0
+wilmington,de,2019-10-29 23:00:00,NaN,NaN,3.0
+cleveland,oh,2019-10-28 12:00:00,NaN,NaN,2.0
+norfolk,va,2019-10-27 20:00:00,NaN,NaN,7.0
+lewisville,tx,2019-10-26 22:00:00,NaN,NaN,2.0
+albuquerque,nm,2019-10-26 19:00:00,NaN,NaN,1.0
+dallas,tx,2019-10-24 21:00:00,NaN,NaN,25.0
+northlittlerock,ar,2019-10-24 20:00:00,NaN,NaN,3.0
+sandyspring,md,2019-10-24 01:00:00,NaN,NaN,1.0
+northcharleston,sc,2019-10-20 06:00:00,NaN,NaN,9.0
+randolph,ma,2019-10-20 02:00:00,NaN,NaN,7.0
+sanantonio,tx,2019-10-19,NaN,NaN,2.0
+melbourne,al,2019-10-19 20:00:00,NaN,NaN,4.0
+blackmountain,nc,2019-10-18 22:00:00,NaN,NaN,1.0
+losangeles,ca,2019-10-11 22:00:00,NaN,NaN,2.0
+woodbury,nj,2019-10-09 19:00:00,NaN,NaN,7.0
+carmel,in,2019-10-08 07:00:00,NaN,NaN,1.0
+fairfax,va,2019-10-05 08:00:00,NaN,NaN,2.0
+calmar(canada),ab,2019-10-02 19:00:00,NaN,NaN,2.0
+dundalk,md,2019-09-29 03:00:00,NaN,NaN,7.0
+lahaina(maui),hi,2019-09-28,NaN,NaN,2.0
+bonneylake,wa,2019-09-28 21:00:00,NaN,NaN,3.0
+newyorkcity(queens),ny,2019-09-27 22:00:00,NaN,NaN,2.0
+duluth,mn,2019-09-25 22:00:00,NaN,NaN,2.0
+nashville,tn,2019-09-21 23:00:00,NaN,NaN,2.0
+hastings,mn,2019-09-17 20:00:00,NaN,NaN,2.0
+granville,ny,2019-09-16 21:00:00,NaN,NaN,3.0
+westvalleycity,ut,2019-09-12 22:00:00,NaN,NaN,2.0
+kona,hi,2019-09-07 04:00:00,NaN,NaN,2.0
+keybiscayne,fl,2019-08-25 12:00:00,NaN,NaN,7.0
+corrales,nm,2019-08-24 22:00:00,NaN,NaN,2.0
+chester,ny,2019-08-23,NaN,NaN,7.0
+atlanticocean(50milesoffnjcoast),nj,2019-08-18 04:00:00,NaN,NaN,3.0
+anchorage,ak,2019-08-16,NaN,NaN,3.0
+newyorkcity(brooklyn),ny,2019-08-15 19:00:00,NaN,NaN,3.0
+abilene,tx,2019-08-14 01:00:00,NaN,NaN,1.0
+sanantonio,tx,2019-08-12 02:00:00,NaN,NaN,2.0
+follybeach,sc,2019-07-30 22:00:00,NaN,NaN,18.0
+charleston,sc,2019-07-29 22:00:00,NaN,NaN,2.0
+fortlee,nj,2019-07-28 22:00:00,NaN,NaN,2.0
+tempe,az,2019-07-28 21:00:00,NaN,NaN,2.0
+waianae,hi,2019-07-28,NaN,NaN,3.0
+spokane,wa,2019-07-27 01:00:00,NaN,NaN,2.0
+rockypoint,ny,2019-07-24 23:00:00,NaN,NaN,3.0
+coloradosprings,co,2019-07-20 01:00:00,NaN,NaN,1.0
+austin,tx,2019-07-17 22:00:00,NaN,NaN,2.0
+spokanevalley,wa,2019-07-17 01:00:00,NaN,NaN,17.0
+spokane,wa,2019-07-13 22:00:00,NaN,NaN,3.0
+centreville,va,2019-07-13 01:00:00,NaN,NaN,2.0
+vancouver,wa,2019-07-11 01:00:00,NaN,NaN,3.0
+dallastown,pa,2019-07-06 02:00:00,NaN,NaN,7.0
+otisorchards,wa,2019-07-06 02:00:00,NaN,NaN,3.0
+columbia,md,2019-07-05 21:00:00,NaN,NaN,18.0
+massapequapark,ny,2019-07-04 22:00:00,NaN,NaN,3.0
+saintlouis,mo,2019-07-01 23:00:00,NaN,NaN,7.0
+chicago,il,2019-06-28 04:00:00,NaN,NaN,2.0
+dayton,oh,2019-06-27 22:00:00,NaN,NaN,8.0
+flagstaff,az,2019-06-24 20:00:00,NaN,NaN,1.0
+lincolnpark,mi,2019-06-21,NaN,NaN,7.0
+mcbean,ga,2019-06-21,NaN,NaN,25.0
+chelyan,wv,2019-06-19 22:00:00,NaN,NaN,25.0
+portland,or,2019-06-15 18:00:00,NaN,NaN,3.0
+salem,va,2019-06-14 10:00:00,NaN,NaN,1.0
+roseville,mn,2019-06-06 03:00:00,NaN,NaN,1.0
+bocaraton,fl,2019-06-02 21:00:00,NaN,NaN,18.0
+reddeer(canada),ab,2019-05-27 01:00:00,NaN,NaN,5.0
+denver,co,2019-05-25 22:00:00,NaN,NaN,2.0
+spokane,wa,2019-05-19 22:00:00,NaN,NaN,3.0
+spokane,wa,2019-05-19 22:00:00,NaN,NaN,3.0
+brighton,co,2019-05-11 22:00:00,NaN,NaN,3.0
+garner,nc,2019-05-11,NaN,NaN,3.0
+woodbury,mn,2019-05-09 18:00:00,NaN,NaN,4.0
+norfolk,va,2019-05-08 23:00:00,NaN,NaN,2.0
+grandisle,vt,2019-05-03 23:00:00,NaN,NaN,7.0
+winnipeg(canada),mb,2019-04-25 04:00:00,NaN,NaN,1.0
+tucson,az,2019-04-24 16:00:00,NaN,NaN,1.0
+lafayette,ca,2019-04-24 05:00:00,NaN,NaN,1.0
+newyorkcity(queens),ny,2019-04-23,NaN,NaN,3.0
+cochrane(canada),ab,2019-04-18 21:00:00,NaN,NaN,3.0
+oregon,il,2019-04-15,NaN,NaN,4.0
+tampa,fl,2019-04-12 23:00:00,NaN,NaN,2.0
+mesa,az,2019-04-10 19:00:00,NaN,NaN,2.0
+fridley,mn,2019-04-02 20:00:00,NaN,NaN,0.0
+greatfalls,mt,2019-04-02 19:00:00,NaN,NaN,2.0
+st.louis,mo,2019-04-01 07:00:00,NaN,NaN,1.0
+helena,mt,2019-03-28 01:00:00,NaN,NaN,14.0
+helena,mt,2019-03-28 01:00:00,NaN,NaN,14.0
+unknown,ma,2019-03-28,NaN,623.0,NaN
+baltimore,md,2019-03-23 16:00:00,NaN,NaN,2.0
+hobart,wa,2019-03-19 23:00:00,NaN,NaN,2.0
+mililani,hi,2019-03-18 20:00:00,NaN,NaN,2.0
+decatur,ga,2019-02-27 19:00:00,NaN,NaN,3.0
+albuquerque,nm,2019-02-19,NaN,NaN,3.0
+vancouver,wa,2019-02-13 21:00:00,NaN,NaN,4.0
+conyers,ga,2019-02-13 17:00:00,NaN,NaN,2.0
+bristol(uk/england),,2019-02-12 06:00:00,NaN,NaN,3.0
+pembrokepines,fl,2019-02-06 21:00:00,NaN,NaN,2.0
+lasvegas,nv,2019-01-31 21:00:00,NaN,NaN,3.0
+puyallup,wa,2019-01-25 19:00:00,NaN,NaN,5.0
+annandale,va,2019-01-22 06:00:00,NaN,NaN,1.0
+monckscorner,sc,2019-01-21 19:00:00,NaN,NaN,1.0
+lakenheath(uk/england),,2019-01-21 06:00:00,NaN,NaN,4.0
+wailea,hi,2019-01-18 23:00:00,NaN,NaN,8.0
+portland,or,2019-01-16 02:00:00,NaN,NaN,3.0
+alborz,karaj(iran),2019-01-01,NaN,NaN,2.0
+saintlouispark,mn,2018-12-25 21:00:00,NaN,NaN,3.0
+miami,fl,2018-12-19 21:00:00,NaN,NaN,3.0
+windsor,ct,2018-12-19 06:00:00,NaN,NaN,1.0
+fresno,ca,2018-12-19 04:00:00,NaN,NaN,2.0
+pittsburgh,pa,2018-12-15 18:00:00,NaN,NaN,7.0
+makawao,hi,2018-12-14 18:00:00,NaN,NaN,2.0
+glendale,az,2018-12-13 21:00:00,NaN,NaN,2.0
+lakeville,mn,2018-12-09 22:00:00,NaN,NaN,2.0
+clayton,nj,2018-12-01 11:00:00,NaN,NaN,2.0
+anchorage,ak,2018-11-30 09:00:00,NaN,NaN,3.0
+springfield/tallaght(ireland,,2018-11-25 14:00:00,NaN,NaN,3.0
+scottsdale,az,2018-11-23 22:00:00,NaN,NaN,2.0
+cocoa,fl,2018-11-22 23:00:00,NaN,NaN,7.0
+phoenix,az,2018-11-22 03:00:00,NaN,NaN,2.0
+pittsburgh,pa,2018-11-14 20:00:00,NaN,NaN,4.0
+ft.lauderdale,fl,2018-10-30 20:00:00,NaN,NaN,2.0
+syracuse,ny,2018-10-18 19:00:00,NaN,NaN,3.0
+boise,id,2018-10-11 02:00:00,NaN,NaN,4.0
+pretoria(southafrica),,2018-10-10 21:00:00,NaN,NaN,2.0
+littleton,co,2018-10-04 23:00:00,NaN,NaN,2.0
+walsall(uk/england),,2018-09-27 23:00:00,NaN,NaN,3.0
+schaumburg,il,2018-09-26 23:00:00,NaN,NaN,3.0
+lasvegas(springvalley),nv,2018-09-25 15:00:00,NaN,NaN,1.0
+detroit,mi,2018-09-16 18:00:00,NaN,NaN,2.0
+stockton,ca,2018-09-14 05:00:00,NaN,NaN,1.0
+sanjuanbatista,ca,2018-09-04 02:00:00,NaN,NaN,5.0
+rapidcity,sd,2018-08-23 16:00:00,NaN,NaN,1.0
+camas,wa,2018-08-12 23:00:00,NaN,NaN,2.0
+houston,tx,2018-08-10 21:00:00,NaN,NaN,25.0
+sandysprings,ga,2018-08-09 21:00:00,NaN,NaN,25.0
+brooklynpark,md,2018-08-01 22:00:00,NaN,NaN,8.0
+brighton,co,2018-07-27 03:00:00,NaN,NaN,25.0
+columbia,md,2018-07-16 09:00:00,NaN,NaN,3.0
+alexandria,va,2018-07-04 21:00:00,NaN,NaN,3.0
+chandler,az,2018-06-21 21:00:00,NaN,NaN,1.0
+millstadt,il,2018-06-02 18:00:00,NaN,NaN,7.0
+miami,fl,2018-05-17,NaN,NaN,8.0
+coloradosprings,co,2018-05-14 21:00:00,NaN,NaN,7.0
+russellville,ar,2018-05-03 21:00:00,NaN,NaN,7.0
+holiday,fl,2018-04-18 21:00:00,NaN,NaN,2.0
+hewlett,ny,2018-03-22 06:00:00,NaN,NaN,14.0
+universityplace,wa,2018-03-13 22:00:00,NaN,NaN,7.0
+northplains,or,2018-03-11,NaN,NaN,3.0
+coloradosprings,co,2018-03-02 18:00:00,NaN,NaN,1.0
+pinellas,fl,2018-02-21 09:00:00,NaN,NaN,2.0
+clinton,ny,2018-02-09 22:00:00,NaN,NaN,14.0
+santaana,ca,2017-12-30 17:00:00,NaN,NaN,5.0
+missoula,mt,2017-11-10 18:00:00,NaN,NaN,5.0
+wesleychapel,fl,2017-07-19,NaN,NaN,25.0
+vernon,ny,2017-07-12 23:00:00,NaN,NaN,7.0
+friant,ca,2017-06-30 22:00:00,NaN,NaN,5.0
+friant,ca,2017-06-30 22:00:00,NaN,NaN,5.0
+minnetonka,mn,2017-06-12 12:00:00,NaN,NaN,5.0
+lutton(uk/england),,2017-05-17 22:00:00,NaN,NaN,7.0
+tampa,fl,2017-03-14,NaN,NaN,7.0
+dartmouth(canada),ns,2017-03-09,NaN,NaN,5.0
+albany,or,2017-03-09 19:00:00,NaN,NaN,7.0
+portland,or,2017-02-06 18:00:00,NaN,NaN,7.0
+greenbay,wi,2016-12-31 20:00:00,NaN,NaN,14.0
+hanford,ca,2016-11-08 22:00:00,NaN,NaN,5.0
+southhadley,ma,2016-10-18 01:00:00,NaN,NaN,5.0
+fresno,ca,2016-09-29 20:00:00,NaN,NaN,5.0
+london(uk/england),,2016-06-04 01:00:00,NaN,NaN,5.0
+olympia,wa,2016-02-10 07:00:00,NaN,NaN,5.0
+lordstown(near;oni-80),oh,2016-01-05,NaN,NaN,14.0
+enschede(netherlands),,2013-07-26,NaN,198.0,NaN
+mannheim(germany),,2011-09-04 05:00:00,0.0,NaN,NaN
+randolph,ma,2010-08-13,NaN,780.0,NaN
+munich(germany),,2010-08-01,NaN,852.0,NaN
+brockton,ma,2010-02-25,NaN,0.0,NaN
+westminster,co,2009-08-07,NaN,524.0,NaN
+thulba(germany),,2008-05-24,NaN,600.0,NaN
+lihue,hi,2007-09-29,NaN,565.0,NaN
+kenai,ak,2004-01-01,NaN,0.0,NaN
+maylene,al,2002-12-15,NaN,0.0,NaN
+indianapolis(150milesswof),in,1987-08-01,NaN,8.0,NaN
+mt.laurel,nj,1987-06-01,NaN,785.0,NaN
+st.louis,mo,1976-07-15,NaN,636.0,NaN
+graycourt,sc,1975-07-17,NaN,312.0,NaN
+wadidhahal(syria),,2018-06-12 03:00:00,NaN,NaN,1.0
+cheswick,pa,2021-04-15 23:00:00,NaN,NaN,4.0
+tampa,fl,2021-03-19 16:00:00,NaN,NaN,2.0
+spokanevalley,wa,2021-03-11 19:00:00,NaN,NaN,2.0
+elcajon,ca,2021-03-10 23:00:00,NaN,NaN,7.0
+westfargo,nd,2021-03-05 22:00:00,NaN,NaN,1.0
+tucson,az,2021-02-26 07:00:00,NaN,NaN,1.0
+achumani(bolivia),,2021-02-15 18:00:00,NaN,NaN,4.0
+loveland,co,2021-02-12 19:00:00,NaN,NaN,5.0
+issaquah/hobart,wa,2021-01-19,NaN,NaN,2.0
+sydney,ns,2021-01-09 16:00:00,NaN,NaN,3.0
+rasalkhaimah(uar),,2021-01-08 06:00:00,NaN,NaN,1.0
+hollywood,fl,2020-12-24 23:00:00,NaN,NaN,7.0
+westhempstead,ny,2020-12-12 21:00:00,NaN,NaN,4.0
+riverside,ca,2020-11-04 18:00:00,NaN,NaN,5.0
+mokuleia,hi,2020-10-24 21:00:00,NaN,NaN,3.0
+westville,nj,2020-10-23 19:00:00,NaN,NaN,3.0
+aurora,co,2020-09-17 21:00:00,NaN,NaN,2.0
+cabot,ar,2020-09-11,NaN,NaN,2.0
+spokane,wa,2020-08-23,NaN,NaN,2.0
+bayonne,nj,2020-08-18 18:00:00,NaN,NaN,2.0
+alton,il,2020-08-16 22:00:00,NaN,NaN,2.0
+olalla,wa,2020-08-14 03:00:00,NaN,NaN,2.0
+flushing,ny,2020-08-08 22:00:00,NaN,NaN,2.0
+verona,pa,2020-08-08,NaN,NaN,2.0
+norfolk,va,2020-08-04 11:00:00,NaN,NaN,7.0
+littleton,co,2020-07-18 23:00:00,NaN,NaN,3.0
+newkensington,pa,2020-07-12,NaN,NaN,18.0
+annapolis,md,2020-07-10 16:00:00,NaN,NaN,5.0
+pittsburgh,,2020-07-07 22:00:00,NaN,NaN,25.0
+lorain,oh,2020-07-04 23:00:00,NaN,NaN,2.0
+tampa,fl,2020-06-25 17:00:00,NaN,NaN,3.0
+northmyrtlebeach,sc,2020-06-17 10:00:00,NaN,NaN,5.0
+chittenango,ny,2020-06-12 03:00:00,NaN,NaN,2.0
+woburn,ma,2020-06-08 17:00:00,NaN,NaN,2.0
+medford,or,2020-05-30 18:00:00,NaN,NaN,25.0
+pompanobeach,fl,2020-05-20 19:00:00,NaN,NaN,25.0
+peoria,az,2020-05-17 14:00:00,NaN,NaN,2.0
+gulfmills,pa,2020-05-13,NaN,NaN,2.0
+tucson,az,2020-05-06 20:00:00,NaN,NaN,1.0
+chesapeake,va,2020-04-27 21:00:00,NaN,NaN,2.0
+sciencehill,ky,2020-04-26 22:00:00,NaN,NaN,7.0
+riodejaneiro(brazil),,2020-04-26 19:00:00,NaN,NaN,1.0
+albany,or,2020-04-22 22:00:00,NaN,NaN,7.0
+chattaroy,wa,2020-04-16 09:00:00,NaN,NaN,2.0
+burbank,il,2020-04-15 03:00:00,NaN,NaN,3.0
+burien,wa,2020-04-13 13:00:00,NaN,NaN,1.0
+phoenix,az,2020-04-12 01:00:00,NaN,NaN,3.0
+langenfeld(germany),,2020-04-10,0.0,747.0,1.0
+portland,me,2020-04-08 11:00:00,NaN,NaN,3.0
+williamsburg,va,2020-03-29 22:00:00,NaN,NaN,5.0
+cleveland,oh,2020-03-28 23:00:00,NaN,NaN,5.0
+greenvalley,az,2020-03-28 19:00:00,NaN,NaN,1.0
+greenbelt,md,2020-03-19 14:00:00,NaN,NaN,5.0
+hinwit(switzerland),,2020-03-19 01:00:00,NaN,NaN,2.0
+spokane,wa,2020-03-17 22:00:00,NaN,NaN,3.0
+beavercreek,oh,2020-03-06 17:00:00,NaN,NaN,14.0
+elcajon/lamesa,ca,2020-03-06 13:00:00,NaN,NaN,5.0
+superior,wi,2020-02-29 19:00:00,NaN,NaN,1.0
+austin,tx,2020-02-28 06:00:00,NaN,NaN,1.0
+oldwestbury,ny,2020-01-20 14:00:00,NaN,NaN,2.0
+sanleandro,ca,2020-01-10 07:00:00,NaN,NaN,1.0
+leaguecity,tx,2020-01-07 06:00:00,NaN,NaN,3.0
+merrittisland,fl,2019-12-30 21:00:00,NaN,NaN,18.0
+munhall,pa,2019-12-26,NaN,NaN,3.0
+lisle,il,2019-12-12 14:00:00,NaN,NaN,3.0
+haliewa,hi,2019-11-13 19:00:00,NaN,NaN,2.0
+indianapolis,in,2019-11-12 20:00:00,NaN,NaN,2.0
+kona,hi,2019-11-12 19:00:00,NaN,NaN,2.0
+phoenix,az,2019-11-11 20:00:00,NaN,NaN,2.0
+tucson,az,2019-11-11 19:00:00,NaN,NaN,1.0
+peoria,az,2019-11-11 19:00:00,NaN,NaN,2.0
+tucson,az,2019-11-11 19:00:00,NaN,NaN,1.0
+raleigh,,2019-11-11 18:00:00,NaN,NaN,2.0
+bethel,ak,2019-11-11 07:00:00,NaN,NaN,7.0
+yakima,wa,2019-11-10 02:00:00,NaN,NaN,3.0
+bayshore,ny,2019-11-03 19:00:00,NaN,NaN,2.0
+fresno,ca,2019-10-24 12:00:00,NaN,NaN,1.0
+trenton,on,2019-10-23 11:00:00,NaN,NaN,2.0
+tucson,az,2019-10-22 01:00:00,NaN,NaN,1.0
+fresno,ca,2019-10-13 19:00:00,NaN,NaN,5.0
+clayville,ny,2019-10-13 09:00:00,NaN,NaN,5.0
+apex-hollysprings,nc,2019-10-10 20:00:00,NaN,NaN,2.0
+jerseycity,nj,2019-10-10 07:00:00,NaN,NaN,4.0
+tampa,fl,2019-10-02 19:00:00,NaN,NaN,2.0
+trenton,fl,2019-09-28,NaN,NaN,5.0
+hudson,co,2019-09-26 22:00:00,NaN,NaN,2.0
+mountlaurel,nj,2019-09-21 02:00:00,NaN,NaN,2.0
+unknowntravelingonrt.25,sc,2019-09-20 21:00:00,NaN,NaN,25.0
+utica,ny,2019-09-07 01:00:00,NaN,NaN,7.0
+issaquah,wa,2019-09-03 18:00:00,NaN,NaN,2.0
+alpine,tx,2019-08-19 22:00:00,NaN,NaN,25.0
+kensington,md,2019-08-19 04:00:00,NaN,NaN,2.0
+saltlakecityvalley,ut,2019-08-17 03:00:00,NaN,NaN,2.0
+crestwood,ky,2019-08-08 06:00:00,NaN,NaN,2.0
+boilingsprings,sc,2019-07-23,NaN,NaN,0.0
+calgary(canada),ab,2019-07-19,NaN,NaN,0.0
+chicopee,ma,2019-07-11 17:00:00,NaN,NaN,3.0
+clearwater,fl,2019-07-02 14:00:00,NaN,NaN,3.0
+spokane,wa,2019-06-13 19:00:00,NaN,NaN,3.0
+caloocancity(philippines),,2019-06-06 19:00:00,NaN,NaN,3.0
+houghton,mi,2019-06-05 11:00:00,NaN,NaN,5.0
+westspringfield,ma,2019-06-03 18:00:00,NaN,NaN,2.0
+boise,id,2019-05-24 03:00:00,NaN,NaN,2.0
+spokanevalley,wa,2019-05-24 01:00:00,NaN,NaN,3.0
+newyork,ny,2019-05-11 16:00:00,NaN,NaN,3.0
+cortaro,az,2019-04-14,NaN,NaN,1.0
+chicopee,ma,2019-04-01 18:00:00,NaN,NaN,2.0
+lodi,ca,2019-03-20 18:00:00,NaN,NaN,7.0
+mountvernon,in,2019-03-02 15:00:00,NaN,NaN,5.0
+nampa,id,2019-03-02 06:00:00,NaN,NaN,1.0
+garner,nc,2019-02-16 20:00:00,NaN,NaN,7.0
+medellin(colombia),,2019-01-20 20:00:00,NaN,NaN,3.0
+memphis,tn,2018-12-26 18:00:00,NaN,NaN,4.0
+albuquerque,nm,2018-12-17 21:00:00,NaN,NaN,3.0
+irving,tx,2018-10-10 20:00:00,NaN,NaN,2.0
+beverly,ma,2018-10-05 23:00:00,NaN,NaN,2.0
+beverly,ma,2018-10-05 11:00:00,NaN,NaN,2.0
+kingman,az,2018-09-21 22:00:00,NaN,NaN,1.0
+walnutcreek,ca,2018-09-20 01:00:00,NaN,NaN,1.0
+augusta,ga,2018-09-13 01:00:00,NaN,NaN,2.0
+vancouver,wa,2018-09-05 01:00:00,NaN,NaN,2.0
+shawnee,ok,2018-07-04,NaN,NaN,27.0
+williamsport,pa,2018-05-12 01:00:00,NaN,NaN,7.0
+honolulu,hi,2018-03-17 09:00:00,NaN,NaN,2.0
+haywood,ca,2018-03-11 12:00:00,NaN,NaN,5.0
+lakesuperior(trans-canhwy)(canada),on,2018-03-09 13:00:00,NaN,NaN,14.0
+tamarindo(costarica),,2018-03-06 21:00:00,NaN,NaN,2.0
+nottingham,md,2018-02-19,NaN,NaN,2.0
+langely(canada),bc,2017-12-03 12:00:00,NaN,NaN,5.0
+elpaso(ne;fairbanks&rushing),tx,2017-10-23 20:00:00,NaN,NaN,8.0
+coventry,ri,2017-08-16 10:00:00,NaN,NaN,5.0
+greateratlanta-south,,2017-04-05 23:00:00,NaN,NaN,7.0
+layton,ut,2017-01-29 21:00:00,NaN,NaN,5.0
+mobile,al,2016-07-22 10:00:00,NaN,NaN,25.0
+richmond,va,2016-06-04 10:00:00,NaN,NaN,5.0
+denver,co,2008-01-30,NaN,485.0,NaN
+clearwaterbeach,fl,2008-01-10,NaN,601.0,NaN
+bennington,vt,2007-08-03,NaN,508.0,NaN
+denver,co,2007-02-16,NaN,187.0,NaN
+detroit,mi,1995-08-25,NaN,481.0,NaN
+elkgrove,ca,1992-08-15,NaN,756.0,NaN
+lasvegasindesert,nv,1984-12-15,NaN,263.0,NaN
+chattanooga,tn,1984-07-07,NaN,214.0,NaN
+neworleans,la,1974-11-02,NaN,570.0,NaN
+elpaso,tx,1969-06-01,NaN,564.0,NaN
+merseyside(uk/england),,2021-04-10 19:00:00,NaN,NaN,2.0
+redondobeach,ca,2021-01-22 17:00:00,NaN,NaN,3.0
+tempe,az,2020-12-31 21:00:00,NaN,NaN,3.0
+annapolis,md,2020-10-21 01:00:00,NaN,NaN,5.0
+sanantonio,tx,2020-10-13 20:00:00,NaN,NaN,3.0
+tempe,az,2020-10-04 01:00:00,NaN,NaN,1.0
+newark,nj,2020-09-19 15:00:00,NaN,NaN,2.0
+reading,pa,2020-08-24,NaN,NaN,7.0
+calgary,ab,2020-08-22 14:00:00,NaN,NaN,17.0
+murrellsinlet,sc,2020-08-15 23:00:00,NaN,NaN,7.0
+newyorkcity(brooklyn),ny,2020-07-21 21:00:00,NaN,NaN,3.0
+statenisland,ny,2020-07-21 03:00:00,NaN,NaN,2.0
+rahway,nj,2020-07-12 05:00:00,NaN,NaN,7.0
+riverview,fl,2020-07-07 05:00:00,NaN,NaN,5.0
+eastnorthport,ny,2020-07-06 16:00:00,NaN,NaN,2.0
+sanantonio,tx,2020-07-05 22:00:00,NaN,NaN,2.0
+kaysville,ut,2020-05-31 18:00:00,NaN,NaN,2.0
+massapequa,ny,2020-05-06 03:00:00,NaN,NaN,3.0
+pompanobeach,fl,2020-04-30,NaN,NaN,2.0
+chillicothe,il,2020-04-25 20:00:00,NaN,NaN,8.0
+lasvegas,nv,2020-04-23 03:00:00,NaN,NaN,2.0
+weymouth(uk/england),,2020-04-19 20:00:00,NaN,NaN,1.0
+calgary(canada),ab,2020-04-15 23:00:00,NaN,NaN,14.0
+silverspring,md,2020-04-10 09:00:00,NaN,NaN,1.0
+leesburg,va,2020-03-30 21:00:00,NaN,NaN,2.0
+pinole,ca,2020-03-22 16:00:00,NaN,NaN,2.0
+countryclubhills,il,2020-02-27 16:00:00,NaN,NaN,14.0
+northlasvegas,nv,2020-02-21,NaN,NaN,1.0
+knik,ak,2020-02-15 19:00:00,NaN,NaN,14.0
+apollobeach,fl,2020-02-15 17:00:00,NaN,NaN,3.0
+tallahassee,fl,2020-02-15 04:00:00,NaN,NaN,1.0
+roundrock,tx,2020-02-15,NaN,NaN,1.0
+westmemphis,ar,2020-02-08 12:00:00,NaN,NaN,1.0
+chelsea,al,2020-02-02 19:00:00,NaN,NaN,2.0
+grandisland,ny,2020-01-27 23:00:00,NaN,NaN,4.0
+henderson,nv,2020-01-08 15:00:00,NaN,NaN,3.0
+medellin,,2020-01-01 09:00:00,NaN,NaN,4.0
+sanantonio,tx,2020-01-01,NaN,NaN,4.0
+elpaso,tx,2019-12-16 17:00:00,NaN,NaN,2.0
+losangeles,ca,2019-12-11 14:00:00,NaN,NaN,3.0
+miramar,fl,2019-12-10 22:00:00,NaN,NaN,3.0
+mesa,az,2019-10-28 20:00:00,NaN,NaN,2.0
+milton,ma,2019-10-25 22:00:00,NaN,NaN,4.0
+phoenix,az,2019-10-11 20:00:00,NaN,NaN,2.0
+sanfrancisco,ca,2019-09-14 16:00:00,NaN,NaN,1.0
+brentwood,tn,2019-08-17 22:00:00,NaN,NaN,18.0
+honolulu,hi,2019-08-15 21:00:00,NaN,NaN,3.0
+riorancho,nm,2019-07-29,NaN,NaN,2.0
+indianapolis,in,2019-07-05 09:00:00,NaN,NaN,2.0
+northarlington,nj,2019-07-04 19:00:00,NaN,NaN,3.0
+sicklerville,nj,2019-06-18 21:00:00,NaN,NaN,8.0
+wyndmoor,pa,2019-06-07 22:00:00,NaN,NaN,3.0
+bridgeville,pa,2019-06-01 17:00:00,NaN,NaN,3.0
+stratford,nj,2019-05-30,NaN,NaN,7.0
+sicklerville,nj,2019-05-26 21:00:00,NaN,NaN,3.0
+dulles,va,2019-04-19 12:00:00,NaN,NaN,4.0
+phoenix,az,2019-04-15 12:00:00,NaN,NaN,3.0
+pittsburgh,pa,2019-04-14 17:00:00,NaN,NaN,8.0
+sewell,nj,2019-04-06 21:00:00,NaN,NaN,3.0
+elizabeth,in,2019-03-22,NaN,NaN,3.0
+margate,fl,2019-02-25 23:00:00,NaN,NaN,3.0
+grandbasin(reunionisland),,2019-01-06 11:00:00,NaN,NaN,3.0
+coralsprings,fl,2018-10-13 08:00:00,NaN,NaN,2.0
+baltimorehighlands,md,2018-10-12 20:00:00,NaN,NaN,2.0
+eightyfour,pa,2018-09-29 18:00:00,NaN,NaN,3.0
+detroit,mi,2018-09-05,NaN,NaN,2.0
+northlasvegas,nv,2018-07-18 21:00:00,NaN,NaN,7.0
+montreal(canada),qc,2018-05-20 15:00:00,NaN,NaN,3.0
+hongkong,,2018-01-31 21:00:00,NaN,NaN,3.0
+jerseycity,nj,2017-12-19,NaN,NaN,7.0
+manchester,ct,2017-06-24 14:00:00,NaN,NaN,7.0
+lexington,ky,2017-03-07 20:00:00,NaN,NaN,7.0
+syracuse,ny,2016-12-15 21:00:00,NaN,NaN,15.0
+sandiego,ca,2016-12-14 09:00:00,NaN,NaN,5.0
+amherst,ny,2016-12-01 18:00:00,NaN,NaN,17.0
+milwaukie,or,2015-12-17 23:00:00,NaN,NaN,8.0
+katlenburg_lindau(germany),,2013-10-29 18:00:00,0.0,NaN,NaN
+boston,ma,2012-08-25,NaN,492.0,NaN
+sheffieldlake,oh,2008-01-15,NaN,0.0,NaN
+fulda(near)(germany),,2006-07-15 18:00:00,57.0,NaN,NaN
+chemnitz(germany),,1994-01-30 18:00:00,0.0,NaN,NaN
+phoenix,az,1993-06-01,NaN,853.0,NaN
+sanantonio,tx,1970-07-01,NaN,792.0,NaN
+sanjuan(puertorico),,1969-07-01,NaN,510.0,NaN
+omaha,ne,1969-03-01,NaN,24.0,NaN
+st.charles,il,2021-04-15 20:00:00,NaN,NaN,3.0
+fredericksburg,ia,2020-12-08 18:00:00,NaN,NaN,5.0
+portland,or,2020-11-21 21:00:00,NaN,NaN,5.0
+honoluu,hi,2020-10-24 22:00:00,NaN,NaN,3.0
+sandiego,ca,2020-10-14 21:00:00,NaN,NaN,2.0
+palmdale,ca,2020-10-14 20:00:00,NaN,NaN,5.0
+coloradosprings,co,2020-10-12 12:00:00,NaN,NaN,1.0
+lakekinderhook,nivervillehamlet,2020-10-03 04:00:00,NaN,NaN,4.0
+portland,or,2020-07-25 22:00:00,NaN,NaN,2.0
+whitehall,ny,2020-07-18,NaN,NaN,3.0
+whitehall,ny,2020-07-18,NaN,NaN,3.0
+riorancho,nm,2020-06-23 22:00:00,NaN,NaN,2.0
+rochester,mn,2020-04-09 21:00:00,NaN,NaN,14.0
+miami,fl,2020-03-29 23:00:00,NaN,NaN,2.0
+fortlauderdale,fl,2020-03-08,NaN,NaN,3.0
+uppermakefield(abovedelawareriver),pa,2020-02-23 14:00:00,NaN,NaN,3.0
+phoenix,az,2020-02-18 16:00:00,NaN,NaN,2.0
+toronto(canada),on,2020-01-23 17:00:00,NaN,NaN,3.0
+phoenix,az,2020-01-09 21:00:00,NaN,NaN,3.0
+jerseycity,nj,2019-12-26 20:00:00,NaN,NaN,4.0
+lavista,ne,2019-12-11 08:00:00,NaN,NaN,2.0
+saintpaul,mn,2019-10-31 18:00:00,NaN,NaN,2.0
+battleground,wa,2019-10-09,NaN,NaN,3.0
+gibsonia,pa,2019-10-06 08:00:00,NaN,NaN,3.0
+glastonbury,ct,2019-10-05 20:00:00,NaN,NaN,2.0
+louisville,ky,2019-09-23 19:00:00,NaN,NaN,3.0
+lombard,il,2019-06-10 03:00:00,NaN,NaN,5.0
+gresham,or,2019-06-09 18:00:00,NaN,NaN,2.0
+bethelpark,pa,2019-05-18,NaN,NaN,7.0
+henderson,nv,2019-04-27 17:00:00,NaN,NaN,2.0
+hatterasvillage,nc,2019-03-06 15:00:00,NaN,NaN,2.0
+peoria,az,2019-03-03 15:00:00,NaN,NaN,2.0
+winstonsalem,nc,2019-01-20,NaN,NaN,7.0
+chester,va,2018-12-08 20:00:00,NaN,NaN,3.0
+st.louis,mo,2018-12-02 18:00:00,NaN,NaN,4.0
+chicago,il,2018-11-30 13:00:00,NaN,NaN,3.0
+sanantonio,tx,2018-11-02 10:00:00,NaN,NaN,1.0
+boise,id,2018-10-12 19:00:00,NaN,NaN,1.0
+simsbury,ct,2018-10-12 06:00:00,NaN,NaN,7.0
+washington,d.c.(6mileswestof),2018-09-21 22:00:00,NaN,NaN,3.0
+saltlakecity,ut,2018-09-16 23:00:00,NaN,NaN,2.0
+st.paul,mn,2018-09-08 21:00:00,NaN,NaN,2.0
+delraybeach,fl,2018-07-29 22:00:00,NaN,NaN,8.0
+covington,ky,2018-07-07,NaN,NaN,27.0
+philadelphia,pa,2018-07-04 23:00:00,NaN,NaN,25.0
+templeterrace,fl,2018-05-02 21:00:00,NaN,NaN,2.0
+trenton/grosseile,mi,2018-01-15 23:00:00,NaN,NaN,14.0
+portorchard,wa,2017-11-03 22:00:00,NaN,NaN,5.0
+savannah,ga,1983-07-15,NaN,420.0,NaN
+outinthecountrynotcity,tx,1982-01-01,NaN,522.0,NaN
+newyorkcity(bronx),ny,2021-03-06,NaN,NaN,2.0
+alliance,ne,2021-02-14 03:00:00,NaN,NaN,14.0
+odessa,fl,2021-01-28 06:00:00,NaN,NaN,5.0
+losangeles,ca,2021-01-17 15:00:00,NaN,NaN,2.0
+dundalk,md,2021-01-13 20:00:00,NaN,NaN,2.0
+tempe,az,2021-01-01,NaN,NaN,3.0
+mexico,,2020-12-02 19:00:00,NaN,NaN,2.0
+stockton,ca,2020-11-27 16:00:00,NaN,NaN,1.0
+stockton,ca,2020-11-27 16:00:00,NaN,NaN,1.0
+stockton,ca,2020-11-27 16:00:00,NaN,NaN,1.0
+braintree,ma,2020-11-15 02:00:00,NaN,NaN,1.0
+statenisland,ny,2020-11-14 20:00:00,NaN,NaN,2.0
+houston,tx,2020-11-07 18:00:00,NaN,NaN,2.0
+dundalk,md,2020-10-31 20:00:00,NaN,NaN,3.0
+dundalk,md,2020-10-31 20:00:00,NaN,NaN,3.0
+dundalk,md,2020-10-31 20:00:00,NaN,NaN,3.0
+stpaul,mn,2020-10-31 07:00:00,NaN,NaN,1.0
+miami,fl,2020-10-30 22:00:00,NaN,NaN,3.0
+ueda,,2020-10-06 11:00:00,NaN,NaN,2.0
+millcreek,wa,2020-10-03 21:00:00,NaN,NaN,5.0
+winnipeg,mb,2020-09-12 22:00:00,NaN,NaN,1.0
+gloucester,ma,2020-09-10 21:00:00,NaN,NaN,7.0
+portland,or,2020-09-06 22:00:00,NaN,NaN,2.0
+astoria,ny,2020-08-23 14:00:00,NaN,NaN,3.0
+cincinnati,oh,2020-08-20 21:00:00,NaN,NaN,2.0
+osgood,in,2020-08-10 03:00:00,NaN,NaN,5.0
+daphne,al,2020-08-08 13:00:00,NaN,NaN,7.0
+iuka,il,2020-08-06 04:00:00,NaN,NaN,5.0
+beverly,ma,2020-07-25 15:00:00,NaN,NaN,2.0
+boise,id,2020-07-21 23:00:00,NaN,NaN,1.0
+albuquerque,nm,2020-07-19 13:00:00,NaN,NaN,2.0
+newyorkcity,ny,2020-07-18 22:00:00,NaN,NaN,2.0
+havertown,pa,2020-07-17 10:00:00,NaN,NaN,4.0
+springfield,ma,2020-07-01 22:00:00,NaN,NaN,25.0
+hazlet,nj,2020-06-28 16:00:00,NaN,NaN,3.0
+portland,or,2020-06-27 19:00:00,NaN,NaN,3.0
+coloradosprings,co,2020-05-22 09:00:00,NaN,NaN,1.0
+eastamana,ia,2020-05-17 10:00:00,NaN,NaN,7.0
+lasvegas)southsummerlin),nv,2020-05-01 20:00:00,NaN,NaN,2.0
+rochester,ny,2020-05-01 03:00:00,NaN,NaN,7.0
+duluth,mn,2020-04-18 22:00:00,NaN,NaN,3.0
+roundrock,tx,2020-04-14,NaN,NaN,1.0
+danville,ca,2020-04-12 23:00:00,NaN,NaN,3.0
+montgomery,al,2020-04-12 12:00:00,NaN,NaN,7.0
+cardiff,ca,2020-04-10 21:00:00,NaN,NaN,8.0
+seattlequeeneanne,wa,2020-04-09 20:00:00,NaN,NaN,2.0
+northstonington,ct,2020-04-09 16:00:00,NaN,NaN,26.0
+newcastleupontyne,,2020-04-08 22:00:00,NaN,NaN,3.0
+decatur,ga,2020-04-06 04:00:00,NaN,NaN,2.0
+kihei,hi,2020-04-04 14:00:00,NaN,NaN,1.0
+lakeworth,fl,2020-04-03,NaN,NaN,2.0
+toronto(canada),on,2020-04-02 23:00:00,NaN,NaN,2.0
+tamworth,,2020-03-25 21:00:00,NaN,NaN,1.0
+henderson,nv,2020-03-21 22:00:00,NaN,NaN,3.0
+laquinta,ca,2020-03-18 21:00:00,NaN,NaN,7.0
+beaverfalls,pa,2020-03-14 23:00:00,NaN,NaN,14.0
+rex,ga,2020-03-13 23:00:00,NaN,NaN,4.0
+middleburgheights,oh,2020-02-19 23:00:00,NaN,NaN,2.0
+lasvegas,nv,2020-02-02 18:00:00,NaN,NaN,2.0
+rosedale,md,2020-01-22 19:00:00,NaN,NaN,2.0
+aiken,sc,2020-01-16 23:00:00,NaN,NaN,1.0
+irvington,al,2020-01-15 22:00:00,NaN,NaN,4.0
+losangeles,ca,2020-01-15 02:00:00,NaN,NaN,2.0
+austin,tx,2020-01-06 07:00:00,NaN,NaN,1.0
+coloradosprings,co,2020-01-01 18:00:00,NaN,NaN,1.0
+pinellaspark,fl,2019-12-31 23:00:00,NaN,NaN,2.0
+mayflower,ar,2019-12-22 19:00:00,NaN,NaN,3.0
+northlasvegas,nv,2019-12-19 13:00:00,NaN,NaN,2.0
+phoenix,az,2019-12-12 06:00:00,NaN,NaN,2.0
+gresham,or,2019-12-09 05:00:00,NaN,NaN,5.0
+westminster,ca,2019-11-11 18:00:00,NaN,NaN,5.0
+silverhilll,al,2019-11-10 17:00:00,NaN,NaN,4.0
+nashville,tn,2019-11-09 14:00:00,NaN,NaN,2.0
+elpaso,tx,2019-11-04,NaN,NaN,3.0
+sandiego,ca,2019-10-24 17:00:00,NaN,NaN,2.0
+tiburon,ca,2019-10-22 22:00:00,NaN,NaN,1.0
+jeffersonville,in,2019-10-16 20:00:00,NaN,NaN,3.0
+austin,tx,2019-10-14 20:00:00,NaN,NaN,4.0
+santodomingo(dominicanrepublic),,2019-10-14 20:00:00,NaN,NaN,2.0
+havertown,pa,2019-10-05 17:00:00,NaN,NaN,2.0
+conyers,ga,2019-09-30,NaN,NaN,2.0
+toronto(canada),on,2019-09-25 20:00:00,NaN,NaN,3.0
+newyork,ny,2019-09-24 10:00:00,NaN,NaN,2.0
+mesa,az,2019-09-12 21:00:00,NaN,NaN,2.0
+chicago,il,2019-09-11 09:00:00,NaN,NaN,7.0
+edmonton(canada),ab,2019-09-11,NaN,NaN,7.0
+georgetown,in,2019-09-10 20:00:00,NaN,NaN,2.0
+honolulu,hi,2019-09-09 20:00:00,NaN,NaN,3.0
+collegepark,md,2019-08-23 21:00:00,NaN,NaN,7.0
+houston,tx,2019-07-01 20:00:00,NaN,NaN,8.0
+cortemadera,ca,2019-06-27 21:00:00,NaN,NaN,2.0
+elizabeth,pa,2019-06-23 22:00:00,NaN,NaN,3.0
+kaysville,ut,2019-06-23 14:00:00,NaN,NaN,2.0
+sanfrancisco,ca,2019-06-20 18:00:00,NaN,NaN,1.0
+hermosabeach,ca,2019-06-11 03:00:00,NaN,NaN,3.0
+calabasas,ca,2019-06-08 16:00:00,NaN,NaN,3.0
+sudbury,ma,2019-06-02 18:00:00,NaN,NaN,4.0
+losangeles,ca,2019-05-31 17:00:00,NaN,NaN,5.0
+waianae,hi,2019-05-30 20:00:00,NaN,NaN,3.0
+waianae,hi,2019-05-30 20:00:00,NaN,NaN,3.0
+chicago,il,2019-05-24 12:00:00,NaN,NaN,7.0
+tucson,az,2019-05-19 15:00:00,NaN,NaN,2.0
+santabarbara,ca,2019-05-04 13:00:00,NaN,NaN,5.0
+mesa,az,2019-04-23 22:00:00,NaN,NaN,4.0
+sunvalley,nv,2019-04-17 11:00:00,NaN,NaN,1.0
+louisville,ky,2019-04-16 12:00:00,NaN,NaN,2.0
+southgate,mi,2019-04-13 14:00:00,NaN,NaN,3.0
+austin,tx,2019-01-20 13:00:00,NaN,NaN,1.0
+miami,fl,2019-01-05 16:00:00,NaN,NaN,3.0
+miami,fl,2019-01-05 16:00:00,NaN,NaN,3.0
+westhartford,ct,2018-12-29 18:00:00,NaN,NaN,3.0
+fresno,ca,2018-12-15 23:00:00,NaN,NaN,2.0
+coloradosprings,co,2018-12-13 11:00:00,NaN,NaN,3.0
+st.paul,mn,2018-11-26,NaN,NaN,4.0
+beaverton,or,2018-11-15 15:00:00,NaN,NaN,4.0
+newark/fortworth,tx,2018-10-25 03:00:00,NaN,NaN,7.0
+bonita,ca,2018-10-12 19:00:00,NaN,NaN,2.0
+arlington,tx,2018-09-30 02:00:00,NaN,NaN,3.0
+charleston,sc,2018-08-23 20:00:00,NaN,NaN,3.0
+ellington,ct,2018-08-01 21:00:00,NaN,NaN,17.0
+omaha,ne,2018-07-21,NaN,NaN,2.0
+holiday,fl,2018-07-04 22:00:00,NaN,NaN,7.0
+fortlauderdale,fl,2018-04-17 09:00:00,NaN,NaN,1.0
+palmsprings,fl,2018-04-12 21:00:00,NaN,NaN,2.0
+cedarpark,tx,2018-03-16 12:00:00,NaN,NaN,4.0
+lakeworth,fl,2018-02-25 09:00:00,NaN,NaN,18.0
+fredericton(canada),nb,2018-02-12 21:00:00,NaN,NaN,1.0
+oxford,ma,2017-11-19 15:00:00,NaN,NaN,7.0
+vancouver(canada),bc,2017-10-31 21:00:00,NaN,NaN,5.0
+commercecity,co,2017-09-23 05:00:00,NaN,NaN,7.0
+irvine,ca,2017-08-26 18:00:00,NaN,NaN,5.0
+abingdon,md,2017-02-23 12:00:00,NaN,NaN,5.0
+st.petersburg,fl,2017-02-19 11:00:00,NaN,NaN,5.0
+jerseycity,nj,2017-02-15 20:00:00,NaN,NaN,7.0
+fulton,ny,2017-02-02 16:00:00,NaN,NaN,14.0
+eugene,or,2016-12-28 22:00:00,NaN,NaN,5.0
+vacaville,ca,2016-11-26 15:00:00,NaN,NaN,7.0
+southgate,ca,2016-02-14 14:00:00,NaN,NaN,5.0
+heilbronn(germany),,2011-09-13 12:00:00,8.0,NaN,NaN
+fulton,ny,2008-07-26,NaN,387.0,NaN
+erlangen(germany),,2008-05-10 12:00:00,60.0,NaN,NaN
+florissant,mo,1990-06-01,NaN,435.0,NaN
+belleville,il,1982-06-30,NaN,672.0,NaN
+parm,oh,1980-07-01,NaN,408.0,NaN
+mannheim(westgermany),,1970-06-06 18:00:00,0.0,NaN,NaN
+saintjames,ny,2021-02-15 09:00:00,NaN,NaN,4.0
+coloradosprings,co,2021-02-01 09:00:00,NaN,NaN,1.0
+fishers,in,2020-10-31 06:00:00,NaN,NaN,1.0
+itmann,wv,2020-03-15 01:00:00,NaN,NaN,8.0
+portangeles,wa,2020-03-06 15:00:00,NaN,NaN,7.0
+lakeelmo,mn,2020-02-23 20:00:00,NaN,NaN,1.0
+redlands,ca,2020-02-15 20:00:00,NaN,NaN,5.0
+saltlakecity,ut,2019-10-24 07:00:00,NaN,NaN,2.0
+chicago,il,2019-09-19 06:00:00,NaN,NaN,2.0
+colchester,vt,2019-05-27 23:00:00,NaN,NaN,2.0
+oakville(canada),on,2019-05-05,NaN,NaN,3.0
+ottawa(carleton)(canada),on,2019-04-17 02:00:00,NaN,NaN,1.0
+ottawa(canada),on,2019-04-17 02:00:00,NaN,NaN,1.0
+schaumburg,il,2018-12-31,NaN,NaN,3.0
+calgary(canada),ab,2018-08-20,NaN,NaN,2.0
+bangkok(thailand),,2016-07-18 20:00:00,NaN,NaN,7.0
+hurst,tx,2016-06-02 16:00:00,NaN,NaN,25.0
+miramar,fl,2014-05-20,NaN,752.0,NaN
+glastonbury,ct,2001-07-20,NaN,0.0,NaN
+oregoncity,or,2021-04-22,NaN,NaN,2.0
+bellevue,wa,2021-04-13 14:00:00,NaN,NaN,1.0
+bessemer,al,2021-03-05 23:00:00,NaN,NaN,3.0
+woodbridge,nj,2021-03-01,NaN,NaN,5.0
+salem,or,2021-02-13 12:00:00,NaN,NaN,14.0
+lasvegas,nv,2021-02-06 05:00:00,NaN,NaN,1.0
+lubbock,tx,2021-01-27 07:00:00,NaN,NaN,1.0
+philadelphia,pa,2021-01-10 20:00:00,NaN,NaN,2.0
+richmond,mo,2021-01-05 22:00:00,NaN,NaN,3.0
+brentwood,ca,2020-12-23 08:00:00,NaN,NaN,3.0
+terrell,tx,2020-12-20 16:00:00,NaN,NaN,5.0
+millstadt,il,2020-11-09 21:00:00,NaN,NaN,3.0
+centennial,co,2020-11-09 05:00:00,NaN,NaN,2.0
+needham,ma,2020-11-08 19:00:00,NaN,NaN,2.0
+lafayette,co,2020-10-26 19:00:00,NaN,NaN,14.0
+standish,me,2020-10-26 14:00:00,NaN,NaN,4.0
+waikiki,hi,2020-10-24 23:00:00,NaN,NaN,3.0
+gansevoort,ny,2020-10-24 20:00:00,NaN,NaN,3.0
+yakima,wa,2020-10-14 06:00:00,NaN,NaN,7.0
+pittsburgh,pa,2020-10-08 21:00:00,NaN,NaN,2.0
+cedarrapids,ia,2020-10-01 21:00:00,NaN,NaN,7.0
+ronkonkoma,ny,2020-09-23 23:00:00,NaN,NaN,2.0
+bakersfield,ca,2020-09-05 21:00:00,NaN,NaN,5.0
+arlington,tx,2020-08-24 21:00:00,NaN,NaN,2.0
+anchorage,ak,2020-08-20 04:00:00,NaN,NaN,3.0
+dixon,ca,2020-08-16 08:00:00,NaN,NaN,3.0
+mundelein,il,2020-08-11 11:00:00,NaN,NaN,2.0
+westjordan,ut,2020-08-08 23:00:00,NaN,NaN,2.0
+beverly,ma,2020-08-02 17:00:00,NaN,NaN,3.0
+reading(uk/england),,2020-08-01 01:00:00,NaN,NaN,2.0
+portland,or,2020-07-29 23:00:00,NaN,NaN,2.0
+memphis,in,2020-07-29 01:00:00,NaN,NaN,2.0
+littleton,co,2020-07-21 22:00:00,NaN,NaN,3.0
+vienna,il,2020-07-05 20:00:00,NaN,NaN,5.0
+pittsburgh,pa,2020-07-02 22:00:00,NaN,NaN,3.0
+preston,md,2020-06-17 20:00:00,NaN,NaN,5.0
+neworleans,la,2020-06-15 22:00:00,NaN,NaN,18.0
+keysville,fl,2020-06-13 04:00:00,NaN,NaN,7.0
+tucson,az,2020-06-07 01:00:00,NaN,NaN,1.0
+trussville,al,2020-05-25 21:00:00,NaN,NaN,18.0
+wednesburywestmidlandsuk,,2020-05-24 11:00:00,NaN,NaN,3.0
+haleiwa,hi,2020-05-22,NaN,NaN,7.0
+boise,id,2020-05-19 23:00:00,NaN,NaN,3.0
+meridian,id,2020-05-19 23:00:00,NaN,NaN,5.0
+elpaso,tx,2020-05-11 22:00:00,NaN,NaN,17.0
+conway,ar,2020-05-10 01:00:00,NaN,NaN,2.0
+midway,tn,2020-05-06,NaN,NaN,5.0
+losangeles,ca,2020-05-01 21:00:00,NaN,NaN,2.0
+yerevan(armenia),,2020-04-28 23:00:00,NaN,NaN,2.0
+marion,tx,2020-04-26 22:00:00,NaN,NaN,2.0
+bangalore(india),,2020-04-22 02:00:00,NaN,NaN,5.0
+meridian,id,2020-04-04,NaN,NaN,2.0
+albuquerque,nm,2020-03-30 04:00:00,NaN,NaN,3.0
+calgary(canada),ab,2020-03-20 22:00:00,NaN,NaN,5.0
+oldhickory,tn,2020-03-19 23:00:00,NaN,NaN,7.0
+thecolony,tx,2020-02-27 04:00:00,NaN,NaN,1.0
+canonsburg,pa,2020-02-19 23:00:00,NaN,NaN,2.0
+tucson,az,2020-02-18 08:00:00,NaN,NaN,1.0
+kingston(canada),on,2020-02-17 19:00:00,NaN,NaN,2.0
+teaneck,nj,2020-02-01,NaN,NaN,4.0
+bellevue,wa,2020-01-30,NaN,NaN,7.0
+st.petersburg,fl,2020-01-01,NaN,NaN,1.0
+dashpoint,wa,2019-12-25 22:00:00,NaN,NaN,4.0
+arlington,tx,2019-12-14 20:00:00,NaN,NaN,2.0
+lubbock,tx,2019-11-24,NaN,NaN,2.0
+lasvegas,nv,2019-11-11 19:00:00,NaN,NaN,2.0
+fortlauderdale,fl,2019-11-08 19:00:00,NaN,NaN,7.0
+haymarket,va,2019-10-23 18:00:00,NaN,NaN,2.0
+phoenix,az,2019-10-17 21:00:00,NaN,NaN,2.0
+hyattsville,md,2019-10-12 22:00:00,NaN,NaN,3.0
+albuquerque,nm,2019-10-09 21:00:00,NaN,NaN,2.0
+pittsburgh,pa,2019-10-09 21:00:00,NaN,NaN,2.0
+fairhope,al,2019-10-06 03:00:00,NaN,NaN,1.0
+thornton,co,2019-10-06 02:00:00,NaN,NaN,2.0
+waikiki(oahu),hi,2019-09-26 09:00:00,NaN,NaN,3.0
+cedarpark,tx,2019-09-24 02:00:00,NaN,NaN,1.0
+natick,ma,2019-09-22 13:00:00,NaN,NaN,2.0
+richmond,va,2019-09-20 17:00:00,NaN,NaN,2.0
+tirane(albania),,2019-09-14 23:00:00,NaN,NaN,1.0
+bellehaven,va,2019-09-14 16:00:00,NaN,NaN,3.0
+masticbeach,ny,2019-09-02 22:00:00,NaN,NaN,8.0
+centermoriches,ny,2019-09-02 22:00:00,NaN,NaN,8.0
+toronto(canada),on,2019-08-15 03:00:00,NaN,NaN,2.0
+philipsburg,pa,2019-07-26 21:00:00,NaN,NaN,1.0
+monument,co,2019-07-19 17:00:00,NaN,NaN,1.0
+homewood,al,2019-07-04 21:00:00,NaN,NaN,0.0
+baltimore,md,2019-06-22 21:00:00,NaN,NaN,2.0
+suitland,md,2019-06-21,NaN,NaN,0.0
+littlerock,ar,2019-06-02 01:00:00,NaN,NaN,2.0
+kailua,hi,2019-05-31 20:00:00,NaN,NaN,3.0
+kenner,la,2019-05-31 19:00:00,NaN,NaN,18.0
+par(uk/england),,2019-05-21 01:00:00,NaN,NaN,2.0
+gaithersburg,md,2019-05-19 23:00:00,NaN,NaN,18.0
+sanantonio,tx,2019-05-15 02:00:00,NaN,NaN,7.0
+gilbert,az,2019-04-14 03:00:00,NaN,NaN,2.0
+fresno,ca,2019-04-11 07:00:00,NaN,NaN,1.0
+maryesther/fortwaltonbeach,fl,2019-04-09 21:00:00,NaN,NaN,7.0
+sanpablo,ca,2019-04-06 15:00:00,NaN,NaN,4.0
+sandiego,ca,2019-03-19 21:00:00,NaN,NaN,2.0
+philadelphia,pa,2019-03-18 05:00:00,NaN,NaN,2.0
+j6,az,2019-03-17 22:00:00,0.0,NaN,2.0
+toronto(australia),,2019-03-16 21:00:00,NaN,NaN,18.0
+manahawkin,nj,2019-03-16 20:00:00,NaN,NaN,1.0
+easthartford,ct,2019-02-22 23:00:00,NaN,NaN,3.0
+jamesville,ny,2019-02-13,NaN,NaN,5.0
+baltimore,md,2019-01-30 06:00:00,NaN,NaN,2.0
+wakefield,ma,2019-01-21 16:00:00,NaN,NaN,2.0
+parkland,fl,2019-01-14 20:00:00,NaN,NaN,2.0
+kailuaoahu,hi,2019-01-11 20:00:00,NaN,NaN,2.0
+mobile,al,2019-01-02 10:00:00,NaN,NaN,5.0
+atlanta,ga,2018-12-08 23:00:00,NaN,NaN,7.0
+gretna,ne,2018-11-03 23:00:00,NaN,NaN,7.0
+burlington,ct,2018-11-03 02:00:00,NaN,NaN,7.0
+kuna,id,2018-10-22 21:00:00,NaN,NaN,1.0
+brunswick,oh,2018-10-19 07:00:00,NaN,NaN,1.0
+addison,il,2018-10-13 06:00:00,NaN,NaN,4.0
+romulus,mi,2018-09-18 01:00:00,NaN,NaN,2.0
+newyorkcity,ny,2018-09-15 05:00:00,NaN,NaN,3.0
+fairfield,ca,2018-09-12,NaN,NaN,1.0
+clearwater,fl,2018-09-01 23:00:00,NaN,NaN,7.0
+mokuleia,hi,2018-08-12 21:00:00,NaN,NaN,3.0
+franklin,tn,2018-08-02 20:00:00,NaN,NaN,7.0
+chattanooga,tn,2018-07-21 21:00:00,NaN,NaN,25.0
+claryville,ky,2018-06-05 21:00:00,NaN,NaN,3.0
+sydney(canada),ns,2018-04-30 21:00:00,NaN,NaN,3.0
+centreville,va,2018-03-10 21:00:00,NaN,NaN,2.0
+virginiabeach,va,2018-02-24 15:00:00,NaN,NaN,2.0
+dayton,oh,2017-11-15 22:00:00,NaN,NaN,5.0
+westjordan,ut,2017-07-28 16:00:00,NaN,NaN,7.0
+putney,ga,2017-03-17 06:00:00,NaN,NaN,5.0
+warren,oh,2016-07-04 21:00:00,NaN,NaN,7.0
+williamston,mi,2016-04-10 23:00:00,NaN,NaN,5.0
+rockies,vt,2015-05-01 13:00:00,0.0,NaN,NaN
+conway,ar,2008-10-01,NaN,706.0,NaN
+neuseddin(potsdam)(germany),,2008-06-30 03:00:00,0.0,NaN,NaN
+cashion,az,2004-08-15,NaN,0.0,NaN
+schwalmtal(germany),,2003-12-18 20:00:00,0.0,NaN,NaN
+monchengladbach(germany),,1997-01-01 19:00:00,0.0,NaN,NaN
+normal,il,1995-05-15,NaN,707.0,NaN
+reston,va,1994-10-24,NaN,651.0,NaN
+brandon,fl,1985-10-01,NaN,511.0,NaN
+fruita,co,1983-04-07,NaN,702.0,NaN
+woodbridge,nj,2021-04-21 17:00:00,NaN,NaN,7.0
+tucson,az,2021-04-15 02:00:00,NaN,NaN,1.0
+northwich(uk/england),,2021-03-01,NaN,NaN,2.0
+richmondhill,ny,2021-02-16 01:00:00,NaN,NaN,5.0
+edgewater,md,2021-01-03 23:00:00,NaN,NaN,7.0
+mountainside,nj,2021-01-02 01:00:00,NaN,NaN,7.0
+star,id,2020-12-25 19:00:00,NaN,NaN,1.0
+jerseycity,nj,2020-12-22 20:00:00,NaN,NaN,3.0
+northbrook,il,2020-12-06 19:00:00,NaN,NaN,7.0
+barnegattownship,nj,2020-12-01 09:00:00,NaN,NaN,5.0
+hialeah,fl,2020-11-16 03:00:00,NaN,NaN,2.0
+kanapalibeach/maui,hi,2020-11-02 18:00:00,NaN,NaN,2.0
+s.burlington,vt,2020-10-13,NaN,NaN,1.0
+beavercreek,or,2020-10-06 20:00:00,NaN,NaN,2.0
+colbert,wa,2020-10-06 20:00:00,NaN,NaN,2.0
+monroeville,pa,2020-09-30 23:00:00,NaN,NaN,4.0
+miami,fl,2020-09-25 12:00:00,NaN,NaN,8.0
+uk/england),,2020-09-20 04:00:00,NaN,NaN,2.0
+needham,ma,2020-09-17 18:00:00,NaN,NaN,3.0
+hammond(canada),on,2020-09-01 16:00:00,NaN,NaN,2.0
+northcharleston,sc,2020-08-30 01:00:00,NaN,NaN,7.0
+wilmington,,2020-08-18 18:00:00,NaN,NaN,2.0
+sanfrancisco,ca,2020-08-15 22:00:00,NaN,NaN,2.0
+pompanobeach,fl,2020-08-14 22:00:00,NaN,NaN,7.0
+surabaya(indonesia),,2020-08-13 20:00:00,NaN,NaN,2.0
+oslo(norway),,2020-08-12 03:00:00,NaN,NaN,2.0
+syracuse,ny,2020-08-01 21:00:00,NaN,NaN,3.0
+thornton,co,2020-07-21,NaN,NaN,2.0
+baker(outsideof;oni-84),or,2020-07-21,NaN,NaN,1.0
+midvale,ut,2020-07-15 01:00:00,NaN,NaN,2.0
+upperchichester,pa,2020-07-14 22:00:00,NaN,NaN,2.0
+oslo(norway),,2020-07-12 03:00:00,NaN,NaN,2.0
+kohsamui(thailand),,2020-06-14 20:00:00,NaN,NaN,2.0
+bellevue,ne,2020-06-06 22:00:00,NaN,NaN,3.0
+prinville,or,2020-05-18 03:00:00,NaN,NaN,7.0
+pleasantballey(canada),ns,2020-05-08 08:00:00,NaN,NaN,2.0
+lockport,ny,2020-05-01 22:00:00,NaN,NaN,3.0
+seattle,wa,2020-04-19 21:00:00,NaN,NaN,3.0
+montebello,ca,2020-04-16 21:00:00,NaN,NaN,5.0
+kentwood,mi,2020-04-15 19:00:00,NaN,NaN,14.0
+encinitas,ca,2020-04-15 05:00:00,NaN,NaN,5.0
+northbergen,nj,2020-04-12 21:00:00,NaN,NaN,3.0
+vancouver,wa,2020-03-18 22:00:00,NaN,NaN,3.0
+roundrock,tx,2020-03-18 21:00:00,NaN,NaN,7.0
+eastaboga,al,2020-02-03 20:00:00,NaN,NaN,5.0
+redlands,fl,2020-01-12 19:00:00,NaN,NaN,7.0
+statenisland,ny,2020-01-12 16:00:00,NaN,NaN,3.0
+audubon,nj,2020-01-09 01:00:00,NaN,NaN,2.0
+haifa(israel),,2020-01-08 22:00:00,NaN,NaN,25.0
+sandiego,ca,2019-12-31 21:00:00,NaN,NaN,2.0
+brooklyn,ny,2019-12-26 19:00:00,NaN,NaN,4.0
+skokie,il,2019-12-23,NaN,NaN,2.0
+mesa,az,2019-12-19 19:00:00,NaN,NaN,2.0
+sanjuan(puertorico),,2019-12-18 12:00:00,NaN,NaN,2.0
+honolulu,hi,2019-12-15 06:00:00,NaN,NaN,0.0
+lasvegas,nv,2019-12-07 23:00:00,NaN,NaN,4.0
+istanbul(turkey),,2019-12-02,NaN,NaN,3.0
+vancouver,wa,2019-11-04 07:00:00,NaN,NaN,1.0
+erie,pa,2019-11-02 20:00:00,NaN,NaN,7.0
+lesage,wv,2019-10-25 21:00:00,NaN,NaN,7.0
+garnetvalley,pa,2019-10-21 19:00:00,NaN,NaN,2.0
+atlanta(downtownarea),ga,2019-10-18,NaN,NaN,2.0
+odessa(canada),on,2019-10-09 02:00:00,NaN,NaN,1.0
+greatfalls,mt,2019-10-01 01:00:00,NaN,NaN,2.0
+st.louis,mo,2019-10-01,NaN,NaN,2.0
+marlton,nj,2019-09-21 21:00:00,NaN,NaN,2.0
+marlton,nj,2019-09-21 21:00:00,NaN,NaN,2.0
+nashville,tn,2019-09-18 23:00:00,NaN,NaN,2.0
+tracy,ca,2019-09-11 05:00:00,NaN,NaN,1.0
+charlescity,va,2019-09-02 22:00:00,NaN,NaN,18.0
+austin,tx,2019-08-30 12:00:00,NaN,NaN,2.0
+memphis,tn,2019-08-16 21:00:00,NaN,NaN,2.0
+phoenix,az,2019-08-09 21:00:00,NaN,NaN,3.0
+brigantine,nj,2019-08-06 15:00:00,NaN,NaN,3.0
+norfolk,va,2019-08-05 03:00:00,NaN,NaN,7.0
+atlanticcity,nj,2019-08-03 14:00:00,NaN,NaN,8.0
+royaloak,mi,2019-07-22 21:00:00,NaN,NaN,3.0
+bathurst(canada),nb,2019-07-07 23:00:00,NaN,NaN,1.0
+orovalley,az,2019-06-27 23:00:00,NaN,NaN,1.0
+minnepolis,mn,2019-06-08 12:00:00,NaN,NaN,2.0
+ewabeach,hi,2019-05-20 20:00:00,NaN,NaN,3.0
+concord,ca,2019-05-13 22:00:00,NaN,NaN,3.0
+austin,tx,2019-05-12 22:00:00,NaN,NaN,1.0
+shawnee,ok,2019-05-12 17:00:00,NaN,NaN,2.0
+tucson,az,2019-05-01 11:00:00,NaN,NaN,1.0
+englewood,co,2019-04-26 22:00:00,NaN,NaN,2.0
+phoenix,az,2019-04-23 02:00:00,NaN,NaN,2.0
+imperialbeach,ca,2019-03-30 09:00:00,NaN,NaN,3.0
+portland,or,2019-03-24 11:00:00,NaN,NaN,3.0
+kenner,la,2019-03-18 19:00:00,NaN,NaN,3.0
+lasvegas,nv,2019-03-16 16:00:00,NaN,NaN,2.0
+virginiabeach,va,2019-02-24 21:00:00,NaN,NaN,2.0
+vacaville,ca,2019-02-09 22:00:00,NaN,NaN,7.0
+vacaville,ca,2019-02-08 22:00:00,NaN,NaN,7.0
+spokane,wa,2019-01-30 19:00:00,NaN,NaN,0.0
+memphis,tn,2019-01-08 20:00:00,NaN,NaN,3.0
+hillsboro,or,2018-12-12 01:00:00,NaN,NaN,7.0
+buckie(uk/scotland),,2018-11-26 02:00:00,NaN,NaN,4.0
+bainbridgeisland,wa,2018-11-12 20:00:00,NaN,NaN,3.0
+cherryhill,nj,2018-11-04 23:00:00,NaN,NaN,2.0
+albuquerque,nm,2018-11-01 18:00:00,NaN,NaN,2.0
+northaugusta,sc,2018-10-10,NaN,NaN,7.0
+northcharleston,sc,2018-10-06 01:00:00,NaN,NaN,2.0
+sanmateo,ca,2018-10-05 20:00:00,NaN,NaN,2.0
+richmond,va,2018-09-26 22:00:00,NaN,NaN,3.0
+newyork,ny,2018-09-16,NaN,NaN,2.0
+honolulu,hi,2018-09-03 03:00:00,NaN,NaN,3.0
+gambrills,md,2018-08-12,NaN,NaN,8.0
+hazelpark,mi,2018-08-03,NaN,NaN,3.0
+englewood,co,2018-07-05,NaN,NaN,7.0
+englewood,co,2018-07-02,NaN,NaN,2.0
+denver,co,2018-06-27 21:00:00,NaN,NaN,2.0
+hialeah,fl,2018-05-12 21:00:00,NaN,NaN,8.0
+augusta,ga,2018-03-14 12:00:00,NaN,NaN,1.0
+elcerrito,ca,2018-02-22 06:00:00,NaN,NaN,1.0
+memphis,tn,2017-12-22 23:00:00,NaN,NaN,8.0
+greenbay,wi,2017-11-25,NaN,NaN,7.0
+desplaines,il,2017-05-18,NaN,NaN,5.0
+edwardsville,il,2017-05-17 22:00:00,NaN,NaN,7.0
+bellevue,wa,2017-03-09,NaN,NaN,7.0
+shermanoaks,ca,2016-11-21 02:00:00,NaN,NaN,7.0
+keizer,or,2016-11-11,NaN,NaN,5.0
+seattle,wa,2016-07-22,NaN,NaN,17.0
+cambridge,ma,2016-06-11 23:00:00,NaN,NaN,5.0
+fredericton(canada),nb,2016-04-07 21:00:00,NaN,NaN,7.0
+lakewood,ca,2016-02-14 19:00:00,NaN,NaN,5.0
+berlin(germany),,2012-10-20 18:00:00,0.0,NaN,NaN
+orchardpark,ny,2012-07-06,NaN,776.0,NaN
+gainesville,fl,2004-10-15,NaN,0.0,NaN
+saltlakecity,ut,2004-06-26,NaN,0.0,NaN
+springfield,or,2002-01-03,NaN,0.0,NaN
+hinckley,oh,1996-06-01,NaN,797.0,NaN
+drove/soller(germany),,1990-06-15 16:00:00,6.0,NaN,NaN
+lasvegas,nv,1979-06-23,NaN,876.0,NaN
+essex(uk/england),,1972-05-07,NaN,516.0,NaN
+hardheim(westgermany),,1969-11-15,NaN,180.0,NaN
