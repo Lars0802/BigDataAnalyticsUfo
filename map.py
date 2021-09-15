@@ -6,7 +6,7 @@ from pandas.core.base import DataError
 from pandas.core.frame import DataFrame
 
 # file paths
-weather_path = 'sunshine_total_backup.csv'
+weather_path = 'data/sunshine_total_backup.csv'
 df = pd.read_csv(weather_path, parse_dates=["time_date"])
 df.sort_values(by='time_date', ascending=False, inplace=True)
 
@@ -64,7 +64,7 @@ def autopct_more_than_1(pct):
 plt.figure(figsize=(16,9))
 plt.pie(labels, labels=labels, autopct=autopct_more_than_1, pctdistance=0.8, startangle=90)
 plt.legend(labels.index.tolist(), title='Legende', bbox_to_anchor=(1,1))
-plt.title('Absoult Verteilung der Condition Codes', fontdict=font)
+plt.title('Verteilung der Condition Codes', fontdict=font)
 plt.axis('equal')
 plt.savefig('img/condition_codes_pie.png', dpi=(1920/16))
 plt.show()

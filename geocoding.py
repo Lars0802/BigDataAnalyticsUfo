@@ -5,11 +5,11 @@ import geopy.distance
 #####################################################################################################
 data = pd.read_csv("stations.csv")
 
-file_cities = "cit.txt"
+file_cities = "data/cit.txt"
 
 
 cities = open(file_cities, "r") #input cities from db
-cities_coords = open("cities_coords.txt", "a") #output cites + coords
+cities_coords = open("data/cities_coords.txt", "a") #output cites + coords
 next = cities.readline()
 while next:
     parameter = {"key" : "EVL3umyRakXGnrfaVMmrL2evEScjo4uG", "location" : next}

@@ -9,7 +9,7 @@ import sys
 db = mysql.connector.connect(host="85.13.154.57", user="d03664f3", passwd="BigDataUfoPW", db="d03664f3")
 res = db.cursor()
 statement = "select city, state, date__time from sighting where not (city is null or city = '' or city = '?' or date__time is null or date__time = '' or date__time = '?')"
-file_path = 'sightings.csv'
+file_path = 'data/sightings.csv'
 
 #abfrage
 try:
