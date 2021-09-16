@@ -8,9 +8,9 @@ from csv import reader
 import os
 
 # file paths
-file_path_final = 'sunshine_total.csv'
-file_path_lnglat = 'cities_coords.csv'
-file_path_sight = 'sightings.csv'
+file_path_final = 'data/sunshine_total.csv'
+file_path_lnglat = 'data/cities_coords.csv'
+file_path_sight = 'data/sightings.csv'
 
 # del if exists
 try:
