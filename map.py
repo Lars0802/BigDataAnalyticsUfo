@@ -13,7 +13,7 @@ df.sort_values(by='time_date', ascending=False, inplace=True)
 #%%
 # hourly_suntime
 plt.figure(figsize=(16,9))
-plt.plot(df.time_date, df.sun_hourly, 'r.-')
+plt.plot(df.time_date, df.sun_hourly, '.r-')
 plt.title('Sonnenminuten pro Stunde je Sichtung')
 plt.ylabel('Sonnenminuten/Stunde')
 plt.xlabel('Datum')
@@ -68,3 +68,16 @@ plt.title('Verteilung der Condition Codes', fontdict=font)
 plt.axis('equal')
 plt.savefig('img/condition_codes_pie.png', dpi=(1920/16))
 plt.show()
+
+#%%
+# boxplots
+# hourly_sun
+box_hourly = df.boxplot(column='sun_hourly')
+plt.title('Boxplot Sonnenminuten in Stunde der Sichtung')
+box_hourly.get_figure().savefig('img/hourly_suntime_boxplot.png', dpi=(1920/16))
+
+# daily_sun
+box_daily = df.boxplot(column='sun_daily')
+plt.title('Boxplot Sonnenminuten am Tag der Sichtung')
+box_daily.get_figure().savefig('img/daily_suntime_boxplot.png', dpi=(1920/16))
+# %%
