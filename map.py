@@ -10,6 +10,18 @@ weather_path = 'data/sunshine_total_backup.csv'
 df = pd.read_csv(weather_path, parse_dates=["time_date"])
 df.sort_values(by='time_date', ascending=False, inplace=True)
 
+# %%
+# numbers
+condition = df.apply(lambda x: True if x['sun_hourly'] >= 0 else False, axis=1)
+count_hourly = len(condition[condition == True].index)
+condition = df.apply(lambda x: True if x['sun_daily'] >= 0 else False, axis=1)
+count_daily = len(condition[condition == True].index)
+condition = df.apply(lambda x: True if x['condition_code'] >= 0 else False, axis=1)
+count_coco = len(condition[condition == True].index)
+print('Datasets containing hourly sunshine: ', count_hourly)
+print('Datasets containing daily sunshine: ', count_daily)
+print('Datasets containing condition codes: ', count_coco)
+
 #%%
 # hourly_suntime
 plt.figure(figsize=(16,9))
@@ -80,4 +92,3 @@ box_hourly.get_figure().savefig('img/hourly_suntime_boxplot.png', dpi=(1920/16))
 box_daily = df.boxplot(column='sun_daily')
 plt.title('Boxplot Sonnenminuten am Tag der Sichtung')
 box_daily.get_figure().savefig('img/daily_suntime_boxplot.png', dpi=(1920/16))
-# %%
