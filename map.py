@@ -22,6 +22,10 @@ print('Datasets containing hourly sunshine: ', count_hourly)
 print('Datasets containing daily sunshine: ', count_daily)
 print('Datasets containing condition codes: ', count_coco)
 
+coco = df.groupby('condition_code').count()
+coco.rename(columns={'city' : 'count'}, inplace=True)
+print(coco['count'])
+
 #%%
 # hourly_suntime
 plt.figure(figsize=(16,9))
