@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2021.4.19)  23 SEP 2021 22:17
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2021.4.19)  24 SEP 2021 15:36
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"f:/MEGA/6. Fachsemester/Big Data Analytics/BigDataAnalyticsUfo/report/report
@@ -811,11 +811,11 @@ braces):
 >  {german/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {german/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Module polyglossia Info: Language data for german
-(polyglossia)            hyphenation	
 (polyglossia)            lefthyphenmin	2
 (polyglossia)            loader	loadhyph-de-1901.tex
-(polyglossia)            patterns	hyph-de-1901.pat.txt
+(polyglossia)            hyphenation	
 (polyglossia)            synonyms	
+(polyglossia)            patterns	hyph-de-1901.pat.txt
 (polyglossia)            righthyphenmin	2 on input line 10
 Module polyglossia Info: Language german was not yet loaded; created with id 2 o
 n input line 10
@@ -878,158 +878,379 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 )
 Class acmart Info: Suppressing bibformat on input line 13.
 
+(F:/Programme/LaTeX/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(F:/Programme/LaTeX/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count315
+
+(F:/Programme/LaTeX/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count316
+\c@listtotal=\count317
+\c@listcount=\count318
+\c@liststart=\count319
+\c@liststop=\count320
+\c@citecount=\count321
+\c@citetotal=\count322
+\c@multicitecount=\count323
+\c@multicitetotal=\count324
+\c@instcount=\count325
+\c@maxnames=\count326
+\c@minnames=\count327
+\c@maxitems=\count328
+\c@minitems=\count329
+\c@citecounter=\count330
+\c@maxcitecounter=\count331
+\c@savedcitecounter=\count332
+\c@uniquelist=\count333
+\c@uniquename=\count334
+\c@refsection=\count335
+\c@refsegment=\count336
+\c@maxextratitle=\count337
+\c@maxextratitleyear=\count338
+\c@maxextraname=\count339
+\c@maxextradate=\count340
+\c@maxextraalpha=\count341
+\c@abbrvpenalty=\count342
+\c@highnamepenalty=\count343
+\c@lownamepenalty=\count344
+\c@maxparens=\count345
+\c@parenlevel=\count346
+\blx@tempcnta=\count347
+\blx@tempcntb=\count348
+\blx@tempcntc=\count349
+\blx@maxsection=\count350
+\blx@maxsegment@0=\count351
+\blx@notetype=\count352
+\blx@parenlevel@text=\count353
+\blx@parenlevel@foot=\count354
+\blx@sectionciteorder@0=\count355
+\blx@entrysetcounter=\count356
+\blx@biblioinstance=\count357
+\labelnumberwidth=\skip75
+\labelalphawidth=\skip76
+\biblabelsep=\skip77
+\bibitemsep=\skip78
+\bibnamesep=\skip79
+\bibinitsep=\skip80
+\bibparsep=\skip81
+\bibhang=\skip82
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language3
+\c@mincomprange=\count358
+\c@maxcomprange=\count359
+\c@mincompwidth=\count360
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count361
+\c@savedafterword=\count362
+\c@annotator=\count363
+\c@savedannotator=\count364
+\c@author=\count365
+\c@savedauthor=\count366
+\c@bookauthor=\count367
+\c@savedbookauthor=\count368
+\c@commentator=\count369
+\c@savedcommentator=\count370
+\c@editor=\count371
+\c@savededitor=\count372
+\c@editora=\count373
+\c@savededitora=\count374
+\c@editorb=\count375
+\c@savededitorb=\count376
+\c@editorc=\count377
+\c@savededitorc=\count378
+\c@foreword=\count379
+\c@savedforeword=\count380
+\c@holder=\count381
+\c@savedholder=\count382
+\c@introduction=\count383
+\c@savedintroduction=\count384
+\c@namea=\count385
+\c@savednamea=\count386
+\c@nameb=\count387
+\c@savednameb=\count388
+\c@namec=\count389
+\c@savednamec=\count390
+\c@translator=\count391
+\c@savedtranslator=\count392
+\c@shortauthor=\count393
+\c@savedshortauthor=\count394
+\c@shorteditor=\count395
+\c@savedshorteditor=\count396
+\c@labelname=\count397
+\c@savedlabelname=\count398
+\c@institution=\count399
+\c@savedinstitution=\count400
+\c@lista=\count401
+\c@savedlista=\count402
+\c@listb=\count403
+\c@savedlistb=\count404
+\c@listc=\count405
+\c@savedlistc=\count406
+\c@listd=\count407
+\c@savedlistd=\count408
+\c@liste=\count409
+\c@savedliste=\count410
+\c@listf=\count411
+\c@savedlistf=\count412
+\c@location=\count413
+\c@savedlocation=\count414
+\c@organization=\count415
+\c@savedorganization=\count416
+\c@origlocation=\count417
+\c@savedoriglocation=\count418
+\c@origpublisher=\count419
+\c@savedorigpublisher=\count420
+\c@publisher=\count421
+\c@savedpublisher=\count422
+\c@language=\count423
+\c@savedlanguage=\count424
+\c@origlanguage=\count425
+\c@savedoriglanguage=\count426
+\c@pageref=\count427
+\c@savedpageref=\count428
+\shorthandwidth=\skip83
+\shortjournalwidth=\skip84
+\shortserieswidth=\skip85
+\shorttitlewidth=\skip86
+\shortauthorwidth=\skip87
+\shorteditorwidth=\skip88
+\locallabelnumberwidth=\skip89
+\locallabelalphawidth=\skip90
+\localshorthandwidth=\skip91
+\localshortjournalwidth=\skip92
+\localshortserieswidth=\skip93
+\localshorttitlewidth=\skip94
+\localshortauthorwidth=\skip95
+\localshorteditorwidth=\skip96
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count429
+\c@textcitetotal=\count430
+\c@textcitemaxnames=\count431
+\c@biburlbigbreakpenalty=\count432
+\c@biburlbreakpenalty=\count433
+\c@biburlnumpenalty=\count434
+\c@biburlucpenalty=\count435
+\c@biburllcpenalty=\count436
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count437
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count438
+\c@bbx:relatedtotal=\count439
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
 (F:/Programme/LaTeX/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
 (F:/Programme/LaTeX/tex/latex/latex-tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count315
-\c@Blindtext=\count316
-\c@blind@countparstart=\count317
-\blind@countxx=\count318
-\blindtext@numBlindtext=\count319
-\blind@countyy=\count320
-\c@blindlist=\count321
-\c@blindlistlevel=\count322
-\c@blindlist@level=\count323
-\blind@listitem=\count324
-\c@blind@listcount=\count325
-\c@blind@levelcount=\count326
-\blind@mathformula=\count327
-\blind@Mathformula=\count328
-\c@blind@randomcount=\count329
-\c@blind@randommax=\count330
-\c@blind@pangramcount=\count331
-\c@blind@pangrammax=\count332
+\c@blindtext=\count440
+\c@Blindtext=\count441
+\c@blind@countparstart=\count442
+\blind@countxx=\count443
+\blindtext@numBlindtext=\count444
+\blind@countyy=\count445
+\c@blindlist=\count446
+\c@blindlistlevel=\count447
+\c@blindlist@level=\count448
+\blind@listitem=\count449
+\c@blind@listcount=\count450
+\c@blind@levelcount=\count451
+\blind@mathformula=\count452
+\blind@Mathformula=\count453
+\c@blind@randomcount=\count454
+\c@blind@randommax=\count455
+\c@blind@pangramcount=\count456
+\c@blind@pangrammax=\count457
 )
-LaTeX Info: Redefining \liningnums on input line 35.
-\c@theorem=\count333
+LaTeX Info: Redefining \liningnums on input line 47.
+\c@theorem=\count458
 
 Excluding comment 'screenonly' Include comment 'printonly'
 Include comment 'anonsuppress'
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
  (./report-ufo.aux
-LaTeX Info: Redefining \rmfamily on input line 23.
-LaTeX Info: Redefining \sffamily on input line 23.
-LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 27.
+LaTeX Info: Redefining \sffamily on input line 27.
+LaTeX Info: Redefining \ttfamily on input line 27.
 Module polyglossia Info: Language data for ngerman
-(polyglossia)            hyphenation	
 (polyglossia)            lefthyphenmin	2
 (polyglossia)            loader	loadhyph-de-1996.tex
-(polyglossia)            patterns	hyph-de-1996.pat.txt
+(polyglossia)            hyphenation	
 (polyglossia)            synonyms	
-(polyglossia)            righthyphenmin	2 on input line 23
-Module polyglossia Info: Language ngerman was not yet loaded; created with id 3 
-on input line 23
+(polyglossia)            patterns	hyph-de-1996.pat.txt
+(polyglossia)            righthyphenmin	2 on input line 27
+Module polyglossia Info: Language ngerman was not yet loaded; created with id 4 
+on input line 27
  (./table-data.aux))
 \openout1 = report-ufo.aux
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 35.
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 47.
 LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line
- 35.
+ 47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-5.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+7.
 
 (F:/Programme/LaTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 47.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-35.
+47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 47.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 35.
+ 47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 47.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 35.
+e 47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF
- on input line 35.
+ on input line 47.
 
 (F:/Programme/LaTeX/tex/latex/libertine/ot1linuxlibertinet-tlf.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 35.
+(Font)              scaled to size 7.3pt on input line 47.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 35.
+(Font)              scaled to size 5.5pt on input line 47.
 <<oml.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
 
  (F:/Programme/LaTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
 
 
 (F:/Programme/LaTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-35.
+47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-35.
+47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-35.
+47.
 
 (F:/Programme/LaTeX/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Info: Redefining \microtypecontext on input line 35.
+LaTeX Info: Redefining \microtypecontext on input line 47.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 35.
+LaTeX Info: Redefining \showhyphens on input line 47.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1038,7 +1259,7 @@ Package microtype Info: No adjustment of kerning.
 File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 47.
 
 (F:/Programme/LaTeX/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1046,29 +1267,29 @@ Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (F:/Programme/LaTeX/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count334
+\c@section@level=\count459
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
 
 (./report-ufo.out) (./report-ufo.out)
-\@outlinefile=\write4
+\@outlinefile=\write5
 
-\openout4 = report-ufo.out
+\openout5 = report-ufo.out
 
 (F:/Programme/LaTeX/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
+\scratchcounter=\count460
 \scratchdimen=\dimen195
 \scratchbox=\box56
-\nofMPsegments=\count336
-\nofMParguments=\count337
+\nofMPsegments=\count461
+\nofMParguments=\count462
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count338
+\MPscratchCnt=\count463
 \MPscratchDim=\dimen196
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
+\MPnumerator=\count464
+\makeMPintoPDFobject=\count465
 \everyMPtoPDFconversion=\toks39
 ) (F:/Programme/LaTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1109,8 +1330,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count341
-\c@mv@boldtabular=\count342
+\c@mv@tabular=\count466
+\c@mv@boldtabular=\count467
 (F:/Programme/LaTeX/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -1118,12 +1339,57 @@ tim
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \rmfamily on input line 35.
-LaTeX Info: Redefining \sffamily on input line 35.
-LaTeX Info: Redefining \ttfamily on input line 35.
-Module polyglossia Info: Language ngerman already loaded; id is 3 on input line 
-35
- (./report-ufo-pre.tex
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Module polyglossia Info: Language ngerman already loaded; id is 4 on input line 
+561
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Module polyglossia Info: Language ngerman already loaded; id is 4 on input line 
+561
+)
+Module polyglossia Info: Language ngerman already loaded; id is 4 on input line 
+19
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-06 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(F:/Programme/LaTeX/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = report-ufo.bcf
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'report-ufo.bbl' found.
+ (./report-ufo.bbl)
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+LaTeX Info: Redefining \rmfamily on input line 47.
+LaTeX Info: Redefining \sffamily on input line 47.
+LaTeX Info: Redefining \ttfamily on input line 47.
+Module polyglossia Info: Language ngerman already loaded; id is 4 on input line 
+47
+
+(./report-ufo-pre.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1140,8 +1406,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-(F:/Programme/LaTeX/tex/latex/microtype/mt-msa.cfg
+ (F:/Programme/LaTeX/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 (F:/Programme/LaTeX/tex/latex/microtype/mt-msb.cfg
@@ -1175,6 +1440,12 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 ]) (./report-ufo-part3.tex) (./report-ufo-part4.tex)
 (./report-ufo-part5.tex (./table-datasetsresults.tex)
 (./table-conditioncodes.tex)) (./report-ufo-sum.tex)
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 61.
+ [3.3
+
+
+]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1209,43 +1480,45 @@ braces):
 >  {german/babelname}  =>  {ngerman}
 >  {german/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {german/Localnumeral}  =>  {polyglossia@C@localnumeral}.
- [3.3
-
-
-] [4.4
+ [4.4
 
 ]
 (./report-ufo.aux
-LaTeX Info: Redefining \rmfamily on input line 23.
-LaTeX Info: Redefining \sffamily on input line 23.
-LaTeX Info: Redefining \ttfamily on input line 23.
+LaTeX Info: Redefining \rmfamily on input line 27.
+LaTeX Info: Redefining \sffamily on input line 27.
+LaTeX Info: Redefining \ttfamily on input line 27.
  (./table-data.aux))
 Package rerunfilecheck Info: File `report-ufo.out' has not changed.
 (rerunfilecheck)             Checksum: B8F5D455348CF22E59C7578BA266C4AF;753.
+Package logreq Info: Writing requests to 'report-ufo.run.xml'.
+
+\openout1 = report-ufo.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 23121 strings out of 478819
- 125081,953878 words of node,token memory allocated
- 592 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 10 attribute, 65 glue_spec
-, 10 attribute_list, 2 write, 2 pdf_colorstack nodes
-   avail lists: 1:1,2:644,3:247,4:312,5:667,6:58,7:11674,8:53,9:566,10:18,11:123
+ 30428 strings out of 478819
+ 125039,1648299 words of node,token memory allocated
+ 682 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 13 attribute, 77 glue_spec
+, 13 attribute_list, 2 write, 3 pdf_action, 2 pdf_colorstack nodes
+   avail lists: 1:3,2:719,3:481,4:319,5:702,6:55,7:11906,8:81,9:574,10:19,11:125
 5
- 41506 multiletter control sequences out of 65536+200000
- 159 fonts using 12679807 bytes
- 96i,11n,128p,1211b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
-<//?/f:/programme/latex/fonts/opentype/public/lm/lmroman6-regular.otf><//?/f:/pr
-ogramme/latex/fonts/opentype/public/lm/lmroman8-regular.otf><//?/f:/programme/la
-tex/fonts/opentype/public/lm/lmmono9-regular.otf><//?/f:/programme/latex/fonts/o
-pentype/public/lm/lmroman9-regular.otf><//?/f:/programme/latex/fonts/opentype/pu
-blic/lm/lmromandemi10-regular.otf><//?/f:/programme/latex/fonts/opentype/public/
-lm/lmroman10-regular.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmroma
-n12-regular.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmsans12-regula
-r.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on report-ufo.pdf (4 pages, 119546 bytes).
+ 48650 multiletter control sequences out of 65536+200000
+ 185 fonts using 14547783 bytes
+ 96i,11n,128p,1211b,2323s stack positions out of 5000i,500n,10000p,200000b,50000s
+<//?/f:/programme/latex/fonts/opentype/public/lm/lmromancaps10-regular.otf><//?/
+f:/programme/latex/fonts/opentype/public/lm/lmroman9-italic.otf><//?/f:/programm
+e/latex/fonts/opentype/public/lm/lmroman6-regular.otf><//?/f:/programme/latex/fo
+nts/opentype/public/lm/lmroman8-regular.otf><//?/f:/programme/latex/fonts/openty
+pe/public/lm/lmmono9-regular.otf><//?/f:/programme/latex/fonts/opentype/public/l
+m/lmroman9-regular.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmromand
+emi10-regular.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmroman10-reg
+ular.otf><//?/f:/programme/latex/fonts/opentype/public/lm/lmroman12-regular.otf>
+<//?/f:/programme/latex/fonts/opentype/public/lm/lmsans12-regular.otf><//?/f:/pr
+ogramme/latex/fonts/opentype/public/lm/lmsans10-bold.otf>
+Output written on report-ufo.pdf (4 pages, 131324 bytes).
 
-PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 131072)
+PDF statistics: 155 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 131072)
  72 words of extra memory for PDF output out of 10000 (max. 100000000)
 

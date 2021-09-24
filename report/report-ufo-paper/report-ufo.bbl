@@ -1,0 +1,150 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{nuforc:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6b39cd99b13f844ba08f9653893b0a84}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {nuforc}%
+      }
+      \strng{namehash}{6b39cd99b13f844ba08f9653893b0a84}
+      \strng{fullhash}{6b39cd99b13f844ba08f9653893b0a84}
+      \strng{bibnamehash}{6b39cd99b13f844ba08f9653893b0a84}
+      \strng{authorbibnamehash}{6b39cd99b13f844ba08f9653893b0a84}
+      \strng{authornamehash}{6b39cd99b13f844ba08f9653893b0a84}
+      \strng{authorfullhash}{6b39cd99b13f844ba08f9653893b0a84}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The National Ufo Reporting Center}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.nuforc.org
+      \endverb
+      \verb{url}
+      \verb http://www.nuforc.org
+      \endverb
+    \endentry
+    \entry{v1:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f4ce3c234ec9b41112723e1d9fbd190e}{%
+           family={NCEI},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NCEI}%
+      }
+      \strng{namehash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \strng{fullhash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \strng{bibnamehash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \strng{authorbibnamehash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \strng{authornamehash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \strng{authorfullhash}{f4ce3c234ec9b41112723e1d9fbd190e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{API v1 Documentation}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
+      \endverb
+      \verb{url}
+      \verb https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
+      \endverb
+    \endentry
+    \entry{v2:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ccf4fedea4dc4f2f8d4b497515012150}{%
+           family={NOAA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NCEI}%
+      }
+      \strng{namehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{fullhash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{bibnamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authorbibnamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authornamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authorfullhash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{API v2 Documentation}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ncdc.noaa.gov/cdo-web/webservices/v2
+      \endverb
+      \verb{url}
+      \verb https://www.ncdc.noaa.gov/cdo-web/webservices/v2
+      \endverb
+    \endentry
+    \entry{github:2021}{online}{}
+      \name{author}{2}{}{%
+        {{hash=df993e9503ced947bf5fc69aad80acc0}{%
+           family={Thomsen},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a180f2b5be963ef9844fc9de49f2d4e6}{%
+           family={Mammadov},
+           familyi={M\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \strng{fullhash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \strng{bibnamehash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \strng{authorbibnamehash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \strng{authornamehash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \strng{authorfullhash}{93cd673c6f275e44f77d996e7f9b2a47}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BigDataAnalytics Ufo}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/Lars0802/BigDataAnalyticsUfo
+      \endverb
+      \verb{url}
+      \verb https://github.com/Lars0802/BigDataAnalyticsUfo
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

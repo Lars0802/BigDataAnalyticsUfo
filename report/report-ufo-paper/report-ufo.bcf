@@ -2344,8 +2344,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">report-ufo.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">croft:2009</bcf:citekey>
-    <bcf:citekey order="2">croft:2009</bcf:citekey>
+    <bcf:citekey order="1">v1:2021</bcf:citekey>
+    <bcf:citekey order="2">v2:2021</bcf:citekey>
+    <bcf:citekey order="0" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
