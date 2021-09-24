@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'report-ufo.blg'
-[199] biber-MSWIN64:340> INFO - === 
-[272] Biber.pm:415> INFO - Reading 'report-ufo.bcf'
-[471] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[506] Biber.pm:4340> INFO - Processing section 0
-[538] Biber.pm:4531> INFO - Looking for bibtex format file 'report-ufo.bib' for section 0
-[738] bibtex.pm:1689> INFO - LaTeX decoding ...
-[746] bibtex.pm:1494> INFO - Found BibTeX data source 'report-ufo.bib'
-[808] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[808] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[808] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[809] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
-[821] bbl.pm:654> INFO - Writing 'report-ufo.bbl' with encoding 'UTF-8'
-[826] bbl.pm:757> INFO - Output to report-ufo.bbl
+[200] biber-MSWIN64:340> INFO - === 
+[282] Biber.pm:415> INFO - Reading 'report-ufo.bcf'
+[464] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[491] Biber.pm:4340> INFO - Processing section 0
+[510] Biber.pm:4531> INFO - Looking for bibtex format file 'report-ufo.bib' for section 0
+[632] bibtex.pm:1689> INFO - LaTeX decoding ...
+[646] bibtex.pm:1494> INFO - Found BibTeX data source 'report-ufo.bib'
+[723] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[723] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[723] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[724] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[743] bbl.pm:654> INFO - Writing 'report-ufo.bbl' with encoding 'UTF-8'
+[747] bbl.pm:757> INFO - Output to report-ufo.bbl

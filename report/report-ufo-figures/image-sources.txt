@@ -1,1 +1,4 @@
+condition_codes_pie.png: map.py
+daily_suntime_boxplot.png: map.py
+hourly_suntime_boxplot.png: map.py
 nuforc.jpg: http://www.nuforc.org/nuforc.gif

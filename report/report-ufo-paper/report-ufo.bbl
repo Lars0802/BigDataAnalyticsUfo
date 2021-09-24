@@ -50,6 +50,64 @@
       \verb http://www.nuforc.org
       \endverb
     \endentry
+    \entry{meteostat:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9191463cbd3f14a6c8a9f24c7eb939b2}{%
+           family={Meteostat},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Meteostat}%
+      }
+      \strng{namehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{fullhash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{bibnamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authorbibnamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authornamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authorfullhash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Meteostat Documentation}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://dev.meteostat.net
+      \endverb
+      \verb{url}
+      \verb https://dev.meteostat.net
+      \endverb
+    \endentry
+    \entry{coco:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9191463cbd3f14a6c8a9f24c7eb939b2}{%
+           family={Meteostat},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Meteostat}%
+      }
+      \strng{namehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{fullhash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{bibnamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authorbibnamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authornamehash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \strng{authorfullhash}{9191463cbd3f14a6c8a9f24c7eb939b2}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Weather Condition Codes}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://dev.meteostat.net/formats.html#weather-condition-codes
+      \endverb
+      \verb{url}
+      \verb https://dev.meteostat.net/formats.html#weather-condition-codes
+      \endverb
+    \endentry
     \entry{v1:2021}{online}{}
       \name{author}{1}{}{%
         {{hash=f4ce3c234ec9b41112723e1d9fbd190e}{%
@@ -71,7 +129,6 @@
       \field{labeltitlesource}{title}
       \field{title}{API v1 Documentation}
       \field{year}{2021}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
       \endverb
@@ -100,12 +157,40 @@
       \field{labeltitlesource}{title}
       \field{title}{API v2 Documentation}
       \field{year}{2021}
-      \true{nocite}
       \verb{urlraw}
       \verb https://www.ncdc.noaa.gov/cdo-web/webservices/v2
       \endverb
       \verb{url}
       \verb https://www.ncdc.noaa.gov/cdo-web/webservices/v2
+      \endverb
+    \endentry
+    \entry{statista:2021}{online}{}
+      \name{author}{1}{}{%
+        {{hash=62182ca58a739daa8ddd8a48b7b19abb}{%
+           family={Statista},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Statista}%
+      }
+      \strng{namehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{fullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{bibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorbibnamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authornamehash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \strng{authorfullhash}{62182ca58a739daa8ddd8a48b7b19abb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sonnenstunden USA}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://de.statista.com/statistik/daten/studie/895421/umfrage/durchschnittlicher-anteil-der-sonnenstunden-in-staedten-in-den-usa-nach-monat/
+      \endverb
+      \verb{url}
+      \verb https://de.statista.com/statistik/daten/studie/895421/umfrage/durchschnittlicher-anteil-der-sonnenstunden-in-staedten-in-den-usa-nach-monat/
       \endverb
     \endentry
     \entry{github:2021}{online}{}
