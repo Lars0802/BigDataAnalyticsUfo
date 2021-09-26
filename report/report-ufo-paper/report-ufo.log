@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2021.4.19)  26 SEP 2021 18:43
+This is LuaHBTeX, Version 1.13.0 (MiKTeX 21.1) (format=lualatex 2021.4.19)  26 SEP 2021 21:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"f:/MEGA/6. Fachsemester/Big Data Analytics/BigDataAnalyticsUfo/report/report
@@ -811,12 +811,12 @@ braces):
 >  {german/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {german/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 Module polyglossia Info: Language data for german
-(polyglossia)            synonyms	
 (polyglossia)            patterns	hyph-de-1901.pat.txt
+(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
 (polyglossia)            loader	loadhyph-de-1901.tex
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            hyphenation	 on input line 10
+(polyglossia)            synonyms	 on input line 10
 Module polyglossia Info: Language german was not yet loaded; created with id 2 o
 n input line 10
 Package polyglossia Info: Option: German, spelling=new.
@@ -1136,12 +1136,12 @@ LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 29.
 LaTeX Info: Redefining \ttfamily on input line 29.
 Module polyglossia Info: Language data for ngerman
-(polyglossia)            synonyms	
 (polyglossia)            patterns	hyph-de-1996.pat.txt
+(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
 (polyglossia)            loader	loadhyph-de-1996.tex
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            hyphenation	 on input line 29
+(polyglossia)            synonyms	 on input line 29
 Module polyglossia Info: Language ngerman was not yet loaded; created with id 4 
 on input line 29
 )
@@ -1455,19 +1455,15 @@ Package luatex.def Info: ../report-ufo-figures//daily_suntime_boxplot.png  used
  [2.2<../report-ufo-figures//hourly_suntime_boxplot.png>]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
- (./table-conditioncodes.tex
-Underfull \vbox (badness 1360) has occurred while \output is active []
-
-))
-(./report-ufo-sum.tex
-<../report-ufo-figures//condition_codes_pie.png, id=78, 1156.32pt x 650.43pt>
+ (./table-conditioncodes.tex)) (./report-ufo-sum.tex [3.3<../report-ufo-figures/
+/daily_suntime_boxplot.png>]
+<../report-ufo-figures//condition_codes_pie.png, id=90, 1156.32pt x 650.43pt>
 File: ../report-ufo-figures//condition_codes_pie.png Graphic file (type png)
 <use ../report-ufo-figures//condition_codes_pie.png>
 Package luatex.def Info: ../report-ufo-figures//condition_codes_pie.png  used o
 n input line 7.
 (luatex.def)             Requested size: 232.75394pt x 130.91737pt.
-) [3.3<../report-ufo-figures//daily_suntime_boxplot.png><../report-ufo-figures//
-condition_codes_pie.png>]
+)
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1504,7 +1500,7 @@ braces):
 >  {german/Localnumeral}  =>  {polyglossia@C@localnumeral}.
  [4.4
 
-] (./report-ufo.aux
+<../report-ufo-figures//condition_codes_pie.png>] (./report-ufo.aux
 LaTeX Info: Redefining \rmfamily on input line 29.
 LaTeX Info: Redefining \sffamily on input line 29.
 LaTeX Info: Redefining \ttfamily on input line 29.
@@ -1522,11 +1518,11 @@ Here is how much of LuaTeX's memory you used:
  712 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 16 attribute, 77 glue_spec
 , 16 attribute_list, 2 write, 6 pdf_action, 2 pdf_colorstack nodes
-   avail lists: 1:3,2:722,3:939,4:301,5:777,6:64,7:12296,8:152,9:532,10:19,11:13
+   avail lists: 1:3,2:614,3:979,4:301,5:823,6:64,7:12296,8:153,9:496,10:19,11:13
 79
  48674 multiletter control sequences out of 65536+200000
  185 fonts using 14547783 bytes
- 96i,11n,128p,1900b,2323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 96i,11n,128p,1911b,2323s stack positions out of 5000i,500n,10000p,200000b,50000s
 <//?/f:/programme/latex/fonts/opentype/public/lm/lmromancaps10-regular.otf><//?/
 f:/programme/latex/fonts/opentype/public/lm/lmroman9-italic.otf>{F:/Programme/La
 TeX/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}<//?/f:/programme/latex/fonts/open
@@ -1540,7 +1536,7 @@ latex/fonts/opentype/public/lm/lmsans12-regular.otf><//?/f:/programme/latex/font
 s/opentype/public/lm/lmsans10-bold.otf><F:/Programme/LaTeX/fonts/type1/public/ne
 wtx/LibertineMathMI.pfb><F:/Programme/LaTeX/fonts/type1/public/libertine/LinLibe
 rtineT.pfb>
-Output written on report-ufo.pdf (4 pages, 341978 bytes).
+Output written on report-ufo.pdf (4 pages, 342523 bytes).
 
 PDF statistics: 195 PDF objects out of 1000 (max. 8388607)
  25 named destinations out of 1000 (max. 131072)
