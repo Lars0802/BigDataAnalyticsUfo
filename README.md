@@ -1,5 +1,7 @@
 # Big Data Analytics - Gruppe Ufo
 
+Lars Thomsen, Uzeyir Mammadov
+
 ## Libraries:
 * meteostat(Python 3.9.5 oder neuer!)
 * pandas
