@@ -185,7 +185,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Sonnenstunden USA}
       \field{year}{2021}
-      \true{nocite}
       \verb{urlraw}
       \verb https://de.statista.com/statistik/daten/studie/895421/umfrage/durchschnittlicher-anteil-der-sonnenstunden-in-staedten-in-den-usa-nach-monat/
       \endverb

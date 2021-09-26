@@ -1,3 +1,5 @@
+% compiler - lualatex
+
 \documentclass[sigconf]{acmart}
 
 % A4 instead of letter paper
@@ -25,7 +27,7 @@
 %\setkeys{Gin}{pagebox=artbox}% Alternative (necessary for newer tex versions) for \pdfpagebox 5 in preceding line.
 \graphicspath{{../report-ufo-figures/}}
 
-% Start of 'ignore natbib' hack
+% Bib
 \usepackage{natbib}
 \let\bibhang\relax
 \let\citename\relax
@@ -34,8 +36,6 @@
 \let\citeauthor\relax
 \let\citeyear\relax
 \expandafter\let\csname ver@natbib.sty\endcsname\relax
-% End of 'ignore natbib' hack
-
 \usepackage[backend=biber]{biblatex}
 \addbibresource{report-ufo.bib}
 \setcounter{biburllcpenalty}{7000}
@@ -58,6 +58,6 @@
 %\bibliographystyle{ACM-Reference-Format}
 %\bibliography{report-ufo}
 \nocite{*}
-\printbibliography
+\printbibliography[title=Referenzen]
 
 \end{document}
