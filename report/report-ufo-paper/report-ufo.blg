@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'report-ufo.blg'
-[195] biber-MSWIN64:340> INFO - === 
-[270] Biber.pm:415> INFO - Reading 'report-ufo.bcf'
-[452] Biber.pm:949> INFO - Using all citekeys in bib section 0
-[472] Biber.pm:4340> INFO - Processing section 0
+[194] biber-MSWIN64:340> INFO - === 
+[268] Biber.pm:415> INFO - Reading 'report-ufo.bcf'
+[448] Biber.pm:949> INFO - Using all citekeys in bib section 0
+[474] Biber.pm:4340> INFO - Processing section 0
 [490] Biber.pm:4531> INFO - Looking for bibtex format file 'report-ufo.bib' for section 0
-[610] bibtex.pm:1689> INFO - LaTeX decoding ...
-[626] bibtex.pm:1494> INFO - Found BibTeX data source 'report-ufo.bib'
-[721] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[721] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[722] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[722] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
-[743] bbl.pm:654> INFO - Writing 'report-ufo.bbl' with encoding 'UTF-8'
-[747] bbl.pm:757> INFO - Output to report-ufo.bbl
+[609] bibtex.pm:1689> INFO - LaTeX decoding ...
+[625] bibtex.pm:1494> INFO - Found BibTeX data source 'report-ufo.bib'
+[706] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[706] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[706] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[707] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[728] bbl.pm:654> INFO - Writing 'report-ufo.bbl' with encoding 'UTF-8'
+[734] bbl.pm:757> INFO - Output to report-ufo.bbl

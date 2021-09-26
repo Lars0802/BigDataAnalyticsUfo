@@ -42,12 +42,40 @@
       \field{labeltitlesource}{title}
       \field{title}{The National Ufo Reporting Center}
       \field{year}{2021}
-      \true{nocite}
       \verb{urlraw}
       \verb http://www.nuforc.org
       \endverb
       \verb{url}
       \verb http://www.nuforc.org
+      \endverb
+    \endentry
+    \entry{madar:2020}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d2dd3f36e8183dd1d4812defc7a244c5}{%
+           family={MADAR},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MADAR}%
+      }
+      \strng{namehash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \strng{fullhash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \strng{bibnamehash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \strng{authorbibnamehash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \strng{authornamehash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \strng{authorfullhash}{d2dd3f36e8183dd1d4812defc7a244c5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Multiple Anomaly Detection and Automated Recording}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://store.madar.site/info
+      \endverb
+      \verb{url}
+      \verb https://store.madar.site/info
       \endverb
     \endentry
     \entry{meteostat:2021}{online}{}
